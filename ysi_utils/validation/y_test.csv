@@ -1,0 +1,60 @@
+SMILES,Species,Type,CAS,Ref,YSI
+CCCC(C)(C)O,2-methyl-2-pentanol,Saturated Alcohols,590-36-3,3,9.4
+CC(C)=O,2-propanone  (acetone),Saturated Alkanones,67-64-1,3,-26.9
+CCC(C)(C)CC,"3,3-dimethylpentane",Linear Alkanes,562-49-2,3,26.9
+COC(=O)C(C)C,methyl  isobutyrate,Saturated Esters and Carboxylic Acids,547-63-7,3,-12.7
+CCCCOC,methyl  butyl  ether,Saturated Ethers,628-28-4,3,-11.4
+C=C(C)CCCCC,2-methyl-1-heptene,Alkenes,15870-10-7,3,40.7
+CC(C)C(=O)O,isobutyric  acid,Saturated Esters and Carboxylic Acids,79-31-2,3,-17.9
+CCCCCCCC(C)=O,2-nonanone,Saturated Alkanones,821-55-6,3,22.9
+CCC(C=O)CC,2-ethylbutanal,Saturated Aldehydes,97-96-1,3,-2.1
+CCOC(=O)CC,ethyl  propionate,Saturated Esters and Carboxylic Acids,105-37-3,3,-15.6
+CCC/C=C/CCC,trans  4-octene,Alkenes,14850-23-8,3,45.6
+CCCCCC(C)C,2-methylheptane,Linear Alkanes,592-27-8,3,29.5
+COC(=O)OC,dimethyl  carbonate,Other Multi-Oxygen Compounds,616-38-6,3,-30.8
+CC(C)C(C)O,3-methyl-2-butanol,Saturated Alcohols,598-75-4,3,4.5
+CC(C)CC(C)(C)C,"2,2,4-trimethylpentane",Linear Alkanes,540-84-1,3,48.6
+CCCC(=O)OCC,ethyl  butyrate,Saturated Esters and Carboxylic Acids,105-54-4,3,-7.6
+CC(O)CO,"1,2-propanediol",Other Multi-Oxygen Compounds,57-55-6,3,-25.9
+C/C=C/CC(=O)OC,methyl-3-pentenoate,Unsaturated Esters,818-58-6,4,13.1
+C=CC(=O)OCC,ethyl-2-propenoate,Unsaturated Esters,140-88-5,4,-13.0
+CC(CO)CC(C)(C)C,"2,4,4-trimethyl-1-pentanol",Saturated Alcohols,16325-63-6,3,44.4
+CC/C=C/CCC,trans  3-heptene,Alkenes,14686-14-7,3,35.9
+CC(C)CCC(C)O,5-methyl-2-hexanol,Saturated Alcohols,627-59-8,3,22.3
+CCCOC(=O)CCC,propyl  butyrate,Saturated Esters and Carboxylic Acids,105-66-8,3,10.7
+C1CCOCC1,tetrahydropyran,Cyclic Saturated Ethers,142-68-7,3,-6.0
+C#CCCCCCC,1-octyne,Alkynes and Alkadienes,629-05-0,3,67.8
+C=C(C)CCC,2-methyl-1-pentene,Alkenes,763-29-1,3,19.4
+c1ccccc1,benzene,Aromatic,71-43-2,3,100.0
+C/C=C/C(=O)OC,methyl-2-butenoate,Unsaturated Esters,623-43-8,4,-4.7
+CC(C)OCCO,2-isopropoxyethanol,Other Multi-Oxygen Compounds,109-59-1,3,-7.5
+C/C=C\CCCC,cis  2-heptene,Alkenes,6443-92-1,3,31.7
+CCCC(C)CC,3-methylhexane,Linear Alkanes,589-34-4,3,19.6
+CCC(C)(C)OC,methyl  tert-amyl  ether,Saturated Ethers,994-05-8,3,12.0
+C=CCCC(=O)OCC,ethyl-4-pentenoate,Unsaturated Esters,1968-40-7,4,16.8
+CC(=O)C(C)(C)C,"3,3-dimethyl-2-butanone",Saturated Alkanones,75-97-8,3,15.8
+CCCCOC(C)=O,butyl  acetate,Saturated Esters and Carboxylic Acids,123-86-4,3,8.8
+CCCC=O,butanal,Saturated Aldehydes,123-72-8,3,-19.9
+CC(C)C(C)C,"2,3-dimethylbutane",Linear Alkanes,79-29-8,3,21.1
+CCCCOC(=O)CC,butyl  propionate,Saturated Esters and Carboxylic Acids,590-01-2,3,20.1
+CCCCCC(C)O,2-heptanol,Saturated Alcohols,543-49-7,3,14.0
+CCOC(C)=O,ethyl  acetate,Saturated Esters and Carboxylic Acids,141-78-6,3,-26.4
+C=C(C)C(=O)OCC,ethyl-2-methyl-2-propenoate,Unsaturated Esters,97-63-2,4,-7.7
+CCCCCCCC=O,octanal,Saturated Aldehydes,124-13-0,3,11.1
+COCCOC,"1,2-dimethoxyethane",Other Multi-Oxygen Compounds,110-71-4,3,-28.8
+CCCCC(C=O)CC,2-ethylhexanal,Saturated Aldehydes,123-05-7,3,9.6
+CCCCC(C)C,2-methylhexane,Linear Alkanes,591-76-4,3,18.6
+CCCCC1CCCCC1,butylcyclohexane,Cyclic Alkanes,1678-93-9,3,72.0
+CCC(C)CO,2-methyl-1-butanol,Saturated Alcohols,137-32-6,3,3.0
+CCC(=O)OC(C)(C)C,tert-butyl  propionate,Saturated Esters and Carboxylic Acids,20487-40-5,3,15.7
+O=C1CCCCC1,cyclohexanone,Saturated Alkanones,108-94-1,3,6.1
+CCCC(C)O,2-pentanol,Saturated Alcohols,6032-29-7,3,-0.3
+CCC=C(C)C,2-methyl-2-pentene,Alkenes,625-27-4,3,36.0
+COCCOCCO,2-(2-methoxyethoxy)-ethanol,Other Multi-Oxygen Compounds,111-77-3,3,-23.8
+COCC(C)OC,"1,2-dimethoxypropane",Other Multi-Oxygen Compounds,7778-85-0,3,-18.2
+CCCCCCCCCC,n-decane,Linear Alkanes,124-18-5,3,41.7
+C=CCC(C)CC,4-methyl-1-hexene,Alkenes,3769-23-1,3,39.4
+CC(=O)OCC(C)C,isobutyl  acetate,Saturated Esters and Carboxylic Acids,110-19-0,3,6.9
+COC(=O)CC(C)C,methyl  isopentanoate,Saturated Esters and Carboxylic Acids,556-24-1,3,-3.1
+C=C(C)C(=O)OC,methyl-2-methyl-2-propenoate,Unsaturated Esters,80-62-6,4,-2.2
+C=C(C)C(C)C,"2,3-dimethyl-1-butene",Alkenes,563-78-0,3,35.8

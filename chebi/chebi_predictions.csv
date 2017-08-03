@@ -1,0 +1,832 @@
+ChEBI,Name,CAS,YSI,YSI_std,measured
+CHEBI:1148,2-hydroxybutyric acid,600-15-7,-27.356,2.626,False
+CHEBI:5445,glyceraldehyde,"367-47-5
+56-82-6",-39.172,3.778,False
+CHEBI:15382,(4R)-limonene,5989-27-5,140.554,9.807,False
+CHEBI:15383,(4S)-limonene,5989-54-8,140.778,9.898,False
+CHEBI:15384,limonene,138-86-3,140.170,10.280,False
+CHEBI:15389,(-)-trans-carveol,2102-58-1,125.448,8.004,False
+CHEBI:15402,(+)-neomenthol,,79.158,6.420,False
+CHEBI:15406,(-)-trans-isopiperitenol,,125.500,8.254,False
+CHEBI:15409,(-)-menthol,2216-51-5,77.281,5.855,False
+CHEBI:15662,"(2E)-2,6-dimethylocta-2,7-diene-1,6-diol",,80.874,6.502,False
+CHEBI:15670,(E)-glutaconic acid,1724-02-3,6.157,7.504,False
+CHEBI:15686,(R)-acetoin,53584-56-8,-21.403,2.615,False
+CHEBI:15687,(S)-acetoin,,-22.981,2.858,False
+CHEBI:15688,acetoin,513-86-0,-22.733,2.146,False
+CHEBI:15743,butanal,123-72-8,-19.900,0.580,True
+CHEBI:15825,3-methylbut-2-enal,107-86-8,12.923,2.333,False
+CHEBI:15833,sulcatol,1569-60-4,55.280,5.520,False
+CHEBI:15837,isoamylol,123-51-3,2.400,0.580,True
+CHEBI:15888,5-oxohexanoic acid,3128-06-1,5.302,4.073,False
+CHEBI:15908,L-threonic acid,,-42.811,5.403,False
+CHEBI:15936,aldehydo-D-xylose,,-21.881,5.430,False
+CHEBI:16011,2-ethylhexan-1-ol,,31.100,0.580,True
+CHEBI:16016,glycerone,96-26-4,-40.114,3.820,False
+CHEBI:16019,prenol,,18.895,3.287,False
+CHEBI:16023,D-erythrulose,,-36.455,4.419,False
+CHEBI:16036,ethyl (S)-3-hydroxyhexanoate,,9.058,2.684,False
+CHEBI:16042,halide anion,,-4.844,6.132,False
+CHEBI:16053,"1beta,3beta,4alpha-p-menthane-3,8-diol",91739-72-9,75.134,5.953,False
+CHEBI:16109,"propane-1,3-diol",504-63-2,-23.093,2.153,False
+CHEBI:16111,"nonane-4,6-dione",14090-88-1,19.903,3.049,False
+CHEBI:16133,cyclopentanol,96-41-3,22.339,3.707,False
+CHEBI:16182,2-methylbutanal,"57456-98-1
+96-17-3",-11.900,0.580,True
+CHEBI:16183,methane,74-82-8,-6.807,5.922,False
+CHEBI:16188,octan-1-ol,111-87-5,16.700,0.580,True
+CHEBI:16230,5-hydroxypentanoate,,-5.575,4.253,False
+CHEBI:16310,sulcatone,110-93-0,44.727,4.398,False
+CHEBI:16413,"but-2-yne-1,4-diol",110-65-6,11.596,4.643,False
+CHEBI:16472,pentan-2-one,107-87-9,-14.400,0.580,True
+CHEBI:16501,L-arabinonate,,-32.436,6.644,False
+CHEBI:16638,3-methylbutanal,590-86-3,-3.800,0.580,True
+CHEBI:16641,ethyl (R)-3-hydroxyhexanoate,,7.026,3.022,False
+CHEBI:16789,aldehydo-D-lyxose,,-25.919,5.852,False
+CHEBI:16812,"(S,S)-butane-2,3-diol",19132-06-0,-13.848,2.593,False
+CHEBI:16843,"cis-1,2-dihydro-3-ethylcatechol",,84.815,8.530,False
+CHEBI:16880,L-ribulose,,-28.363,5.323,False
+CHEBI:16931,"trans-cyclohexane-1,2-diol",1460-57-7,15.487,2.883,False
+CHEBI:16943,3-dehydro-L-threonic acid,,-42.952,5.778,False
+CHEBI:16950,2-dehydro-3-deoxy-L-fuconic acid,,-11.311,5.215,False
+CHEBI:16980,geranial,141-27-5,93.878,6.152,False
+CHEBI:16982,"(R,R)-butane-2,3-diol",24347-58-8,-12.825,2.009,False
+CHEBI:16997,"propane-1,2-diol",57-55-6,-25.900,0.580,True
+CHEBI:17066,(R)-3-hydroxybutyric acid,625-72-9,-19.458,2.699,False
+CHEBI:17084,2-hydroxyglutaric acid,2889-31-8,-14.099,7.359,False
+CHEBI:17113,erythritol,149-32-6,-28.720,4.224,False
+CHEBI:17120,hexanoate,151-33-7,1.008,2.947,False
+CHEBI:17140,D-xylulose,,-31.234,5.466,False
+CHEBI:17167,(R)-lactaldehyde,,-31.309,3.478,False
+CHEBI:17173,D-ribulose,488-84-6,-30.813,5.744,False
+CHEBI:17219,"limonene-1,2-diol",1946-00-5,88.001,5.573,False
+CHEBI:17221,beta-myrcene,123-35-3,120.730,9.174,False
+CHEBI:17290,(S)-3-hydroxybutyric acid,6168-83-8,-19.534,3.195,False
+CHEBI:17308,2-oxohexanoic acid,2492-75-3,-9.266,3.089,False
+CHEBI:17378,D-glyceraldehyde,453-17-8,-40.742,4.056,False
+CHEBI:17399,L-xylulose,,-27.705,5.006,False
+CHEBI:17418,valeric acid,109-52-4,-9.661,1.837,False
+CHEBI:17447,geraniol,106-24-1,108.720,8.559,False
+CHEBI:17546,"(2Z)-5-isopropyl-2-methylhexa-2,5-dienal",,88.618,6.340,False
+CHEBI:17580,linalool,78-70-6,93.723,7.637,False
+CHEBI:17590,octane,111-65-9,18.900,0.580,True
+CHEBI:17647,2-dehydro-3-deoxy-L-arabinonic acid,,-22.189,5.461,False
+CHEBI:17655,4-hydroxy-2-oxopentanoic acid,3318-73-8,-17.421,3.584,False
+CHEBI:17746,D-xylonate,,-25.699,7.646,False
+CHEBI:17754,glycerol,56-81-5,-29.892,3.264,False
+CHEBI:17824,propan-2-ol,67-63-0,-17.300,0.580,True
+CHEBI:17859,glutaric acid,110-94-1,-3.457,7.025,False
+CHEBI:17869,6-hydroxyhexanoic acid,1191-25-9,-1.496,4.070,False
+CHEBI:17871,3-hydroxypropanal,,-31.055,2.540,False
+CHEBI:17935,octanal,124-13-0,11.100,0.580,True
+CHEBI:17979,aldehydo-L-xylose,609-06-3,-21.883,5.429,False
+CHEBI:17998,4-methylpentanal,,5.168,1.475,False
+CHEBI:18041,(S)-lactaldehyde,3913-64-2,-31.096,3.523,False
+CHEBI:18064,3-hydroxyisobutyric acid,,-20.614,2.842,False
+CHEBI:18078,2-dehydro-3-deoxy-L-rhamnonic acid,,-8.344,5.647,False
+CHEBI:18099,cyclohexanol,108-93-0,18.500,0.580,True
+CHEBI:18104,2-dehydro-3-deoxy-D-fuconic acid,,-14.029,5.497,False
+CHEBI:18351,4-hydroxyhexan-3-one,,-9.210,1.664,False
+CHEBI:18419,lactaldehyde,,-30.960,2.912,False
+CHEBI:27049,"(2E)-5-isopropyl-2-methylhexa-2,5-dienal",,89.813,5.807,False
+CHEBI:27444,but-3-yn-1-ol,927-74-2,7.728,6.099,False
+CHEBI:27530,4-hydroxy-2-oxohexanoic acid,3545-21-9,-10.761,4.221,False
+CHEBI:27594,carbon atom,7440-44-0,6.916,2.517,False
+CHEBI:27642,methyl tert-butyl ether,1634-04-4,1.700,0.580,True
+CHEBI:27750,ethyl acetate,141-78-6,-26.400,0.580,True
+CHEBI:27778,abequose,,1.836,5.057,False
+CHEBI:27806,2-deoxy-alpha-D-ribopyranose,"36792-85-5
+533-67-5",-16.164,5.607,False
+CHEBI:27816,2-deoxy-L-arabinose,,-17.257,4.027,False
+CHEBI:27904,D-erythrose,583-50-6,-31.612,4.787,False
+CHEBI:27909,paraldehyde,123-63-7,2.246,6.381,False
+CHEBI:27913,L-erythrulose,,-38.912,4.948,False
+CHEBI:27957,hydroxyacetone,116-09-6,-33.680,3.629,False
+CHEBI:27975,L-glyceraldehyde,497-09-6,-40.433,3.651,False
+CHEBI:28028,6-hydroxy-2-oxohexanoic acid,68469-37-4,-9.868,4.213,False
+CHEBI:28146,L-xylonate,,-30.767,6.861,False
+CHEBI:28161,beta-D-xylose,,-31.428,6.149,False
+CHEBI:28354,1-deoxy-D-xylulose,,-24.725,4.041,False
+CHEBI:28398,butan-2-one,78-93-3,-20.500,0.580,True
+CHEBI:28422,3-oxohexanoic acid,,-5.666,3.524,False
+CHEBI:28480,aldehydo-L-lyxose,,-29.088,5.999,False
+CHEBI:28484,isovaleric acid,503-74-2,-4.878,1.768,False
+CHEBI:28587,D-threose,95-43-2,-33.331,4.474,False
+CHEBI:28707,ethyl (R)-3-hydroxybutanoate,,-10.952,2.363,False
+CHEBI:28816,2-deoxy-D-ribose,533-67-5,-15.492,4.689,False
+CHEBI:28831,propan-1-ol,71-23-8,-22.000,0.580,True
+CHEBI:28837,octanoic acid,124-07-2,9.092,2.968,False
+CHEBI:28857,(Z)-hex-3-en-1-ol,928-96-1,15.257,2.750,False
+CHEBI:28885,butan-1-ol,71-36-3,-13.000,0.580,True
+CHEBI:28972,"(R)-propane-1,2-diol",,-22.963,2.517,False
+CHEBI:29002,"(S)-propane-1,2-diol",4254-15-3,-23.226,2.293,False
+CHEBI:29019,nonanoic acid,112-05-0,16.988,2.381,False
+CHEBI:29020,neral,106-26-3,90.830,6.780,False
+CHEBI:29021,hexane,110-54-3,0.000,0.580,True
+CHEBI:29452,nerol,106-25-2,108.449,8.944,False
+CHEBI:30772,butyric acid,107-92-6,-19.000,0.580,True
+CHEBI:30776,hexanoic acid,142-62-1,-1.448,2.922,False
+CHEBI:30830,4-hydroxybutyric acid,591-81-1,-21.931,2.784,False
+CHEBI:30943,tyvelose,5658-12-8,-6.138,5.634,False
+CHEBI:30966,glycidol,556-52-5,-31.001,2.384,False
+CHEBI:31011,valerate,10023-74-2,-10.334,1.975,False
+CHEBI:32383,6-hydroxyhexanoate,1191-25-9,-2.560,4.797,False
+CHEBI:32796,(R)-2-hydroxyglutaric acid,2889-31-8,-9.889,7.630,False
+CHEBI:32797,(S)-2-hydroxyglutaric acid,,-10.194,8.239,False
+CHEBI:33404,3-hydroxypropionic acid,503-66-2,-32.483,3.461,False
+CHEBI:33510,L-arabinonic acid,608-53-7,-33.973,7.901,False
+CHEBI:34288,2-hydroxyethyl methacrylate,868-77-9,-5.154,2.976,False
+CHEBI:35702,diethyl ether,60-29-7,-21.100,0.580,True
+CHEBI:35986,nonan-1-ol,,28.315,3.799,False
+CHEBI:36431,angelic acid,565-63-9,3.107,2.574,False
+CHEBI:37808,butane,,-11.573,1.476,False
+CHEBI:37830,pentane,,-8.900,0.580,True
+CHEBI:39153,5-oxopentanoic acid,,-8.600,4.626,False
+CHEBI:39867,valproic acid,99-66-1,13.322,3.031,False
+CHEBI:41131,crotonic acid,3724-65-0,-6.930,2.214,False
+CHEBI:41330,ethyl propionate,105-37-3,-15.600,0.580,True
+CHEBI:41808,decane,,41.700,0.580,True
+CHEBI:43098,heptane,,8.700,0.580,True
+CHEBI:44510,(S)-2-hydroxy-4-methylpentanoic acid,13748-90-8,2.762,3.234,False
+CHEBI:44630,"octane-1,8-diol",,17.981,2.760,False
+CHEBI:45475,(2S)-butan-2-ol,,-8.100,0.580,True
+CHEBI:45506,alpha-D-ribose,,-20.328,7.815,False
+CHEBI:45525,(R)-2-methylbutyric acid,,-10.305,1.379,False
+CHEBI:45564,5-hydroxypentanoic acid,13392-69-3,-7.810,3.989,False
+CHEBI:45571,heptanoic acid,111-14-8,2.878,3.820,False
+CHEBI:45895,tert-butanol,,-4.500,0.580,True
+CHEBI:46784,diglyme,111-96-6,-22.100,0.580,True
+CHEBI:46788,2-ethoxyethanol,110-80-5,-22.800,0.580,True
+CHEBI:46790,2-methoxyethanol,109-86-4,-34.073,2.373,False
+CHEBI:46807,diethylene glycol,111-46-6,-25.743,3.537,False
+CHEBI:46941,oxane,142-68-7,-6.000,0.580,True
+CHEBI:46987,alpha-L-arabinopyranose,7296-55-1,-26.365,6.244,False
+CHEBI:47032,"1,4-dioxane",123-91-1,-28.052,2.594,False
+CHEBI:48092,L-xylonic acid,,-30.211,7.086,False
+CHEBI:48250,"p-menthane-3,8-diol",,78.166,6.532,False
+CHEBI:48741,beta-phellandrene,555-10-2,125.097,7.738,False
+CHEBI:49000,2-phenylethanol,,80.592,11.800,False
+CHEBI:50232,(+)-neoisodihydrocarveol,51773-45-6,98.749,5.994,False
+CHEBI:50233,(+)-isodihydrocarveol,,97.997,5.547,False
+CHEBI:50235,(+)-dihydrocarveol,,97.392,5.243,False
+CHEBI:50899,3-cyclopentylpropionic acid,140-77-2,47.757,6.303,False
+CHEBI:60645,2-hydroxy-3-methylbutyric acid,4026-18-0,-16.474,2.391,False
+CHEBI:60654,valproate,,13.015,3.061,False
+CHEBI:64276,glutaraldehyde,111-30-8,-10.609,3.766,False
+CHEBI:74903,isocaproic acid,646-07-1,7.443,2.180,False
+CHEBI:77512,3-ethyltoluene,620-14-4,112.793,13.399,False
+CHEBI:84069,pentanal,110-62-3,-14.400,0.580,True
+CHEBI:87272,1-ethoxy-1-pentoxyethane,13442-89-2,21.151,3.922,False
+CHEBI:87393,hexan-1-ol,111-27-3,-0.600,0.580,True
+CHEBI:87755,pentan-3-one,96-22-0,-14.400,0.580,True
+CHEBI:28,(R)-linalool,126-91-0,93.677,7.087,False
+CHEBI:53,(+)-beta-phellandrene,6153-16-8,124.389,7.517,False
+CHEBI:60,(+)-trans-Piperitenol,,103.514,6.566,False
+CHEBI:61,(+)-trans-Pulegol,,110.121,6.032,False
+CHEBI:88,(S)-(-)-citronellol,7540-51-4,71.724,5.551,False
+CHEBI:98,(S)-linalool,126-90-9,98.808,8.113,False
+CHEBI:128,(S)-(-)-alpha-terpineol,10482-56-1,106.113,6.948,False
+CHEBI:129,(-)-beta-phellandrene,6153-17-9,125.099,7.738,False
+CHEBI:149,(-)-dihydrocarveol,20549-47-7,94.262,5.747,False
+CHEBI:150,(-)-isodihydrocarveol,,99.152,5.383,False
+CHEBI:152,(+)-neodihydrocarveol,20549-48-8,97.580,5.374,False
+CHEBI:153,(-)-neoisodihydrocarveol,,98.279,5.321,False
+CHEBI:158,(-)-neodihydrocarveol,,98.023,5.209,False
+CHEBI:227,(-)-cis-carveol,2102-59-2,124.764,7.980,False
+CHEBI:299,(R)-(+)-citronellal,2385-77-5,70.975,4.399,False
+CHEBI:300,(R)-(+)-alpha-terpineol,7785-53-7,106.590,7.195,False
+CHEBI:301,(-)-alpha-phellandrene,"4221-98-1
+99-83-2",135.250,9.691,False
+CHEBI:367,(+)-alpha-phellandrene,2243-33-6,136.650,10.588,False
+CHEBI:368,(S)-(-)-citronellal,5949-05-3,66.355,5.298,False
+CHEBI:1060,2-dehydro-3-deoxy-D-arabinonic acid,,-23.284,5.592,False
+CHEBI:1142,"2-Hydroxy-cis-hex-2,4-dienoate",,8.330,3.435,False
+CHEBI:1416,"3,6-Dideoxy-L-galactose",,-0.658,7.901,False
+CHEBI:2490,6-oxohexanoic acid,928-81-4,-5.603,4.608,False
+CHEBI:3245,butyl acrylate,141-32-2,7.970,2.195,False
+CHEBI:4892,Ethyl 2-methylbut-2-enoate,5837-78-5,5.600,0.580,True
+CHEBI:4893,Ethyl 3-oxobutanoate,141-97-9,-10.626,2.087,False
+CHEBI:5672,heptan-2-one,110-43-0,0.000,0.580,True
+CHEBI:6178,L-arabinofuranose,,-22.785,6.863,False
+CHEBI:6182,aldehydo-L-arabinose,5328-37-0,-20.655,6.828,False
+CHEBI:7610,"(2E,6Z)-nona-2,6-dienal",557-48-2,63.536,5.972,False
+CHEBI:9592,tiglic acid,80-59-1,5.138,2.106,False
+CHEBI:9878,Unsaturated alcohol,,24.329,2.756,False
+CHEBI:10334,alpha-terpinene,99-86-5,142.318,11.133,False
+CHEBI:10360,(R)-(+)-citronellol,1117-61-9,76.753,6.580,False
+CHEBI:10436,beta-ocimene,,134.103,11.637,False
+CHEBI:10577,gamma-terpinene,99-85-4,151.156,12.382,False
+CHEBI:10782,(-)-perillyl alcohol,"18457-55-1
+536-59-4",113.788,7.072,False
+CHEBI:14750,acetylacetone,123-54-6,-13.552,2.263,False
+CHEBI:18451,neoisomenthol,491-02-1,79.629,6.225,False
+CHEBI:18515,"(1S,2S,4R)-limonene-1,2-diol",,89.656,5.676,False
+CHEBI:19591,2-hexenal,505-57-7,10.478,2.545,False
+CHEBI:19662,2-hydroxytetrahydrofuran,5371-52-8,-16.539,2.600,False
+CHEBI:20030,3-hexenal,4440-65-7,13.992,2.540,False
+CHEBI:20067,3-hydroxybutyric acid,300-85-6,-17.930,2.703,False
+CHEBI:20070,3-hydroxyhexanoate,,1.668,3.596,False
+CHEBI:21100,D-altrarate(1-),,10.796,1.345,False
+CHEBI:21288,L-erythrose,,-34.031,4.764,False
+CHEBI:21397,L-altrarate(1-),,10.796,1.345,False
+CHEBI:21405,L-threose,95-44-3,-34.329,3.942,False
+CHEBI:22469,alpha-terpineol,98-55-5,106.103,6.942,False
+CHEBI:23292,cis-3-hexenal,6789-80-6,16.664,2.452,False
+CHEBI:23316,citral,5392-40-5,97.541,6.959,False
+CHEBI:23360,colitose,4221-05-0,0.209,5.816,False
+CHEBI:23958,erythrulose,"496-55-9
+533-50-6",-39.053,5.587,False
+CHEBI:23997,ethyl 3-hydroxyhexanoate,2305-25-1,8.122,3.670,False
+CHEBI:24221,"3,7-dimethylocta-2,6-dien-1-ol",,105.365,9.027,False
+CHEBI:24567,"cyclohexane-1,2-diol",931-17-9,13.732,2.756,False
+CHEBI:24579,1-hexene,592-41-6,18.700,0.580,True
+CHEBI:25187,p-menthan-3-ol,1490-04-6,76.864,5.716,False
+CHEBI:25351,mevalonic acid,,1.328,5.482,False
+CHEBI:25644,octyl hydroperoxide,7530-07-6,18.555,3.341,False
+CHEBI:25646,octanoate,74-81-7,10.333,3.366,False
+CHEBI:25826,p-menthane,99-82-1,82.919,5.501,False
+CHEBI:26491,quinhydrone,106-34-3,10.796,1.345,False
+CHEBI:26911,oxolane,109-99-9,-15.700,0.580,True
+CHEBI:29309,methyl,2229-07-4,-2.638,6.709,False
+CHEBI:29357,methanediyl,2465-56-7,8.952,8.291,False
+CHEBI:29360,methanediide,,8.953,8.291,False
+CHEBI:29430,hydridocarbon(.),,6.337,10.043,False
+CHEBI:29434,carbide(4-),,8.030,2.519,False
+CHEBI:29435,carbide(1-),,8.030,2.519,False
+CHEBI:29436,carbon(1+),14067-05-1,8.030,2.519,False
+CHEBI:29437,methylium,14531-53-4,-5.793,5.945,False
+CHEBI:29438,methanide,15194-58-8,-4.844,6.132,False
+CHEBI:29439,methaniumyl,,8.954,8.291,False
+CHEBI:29440,methanuidyl,,8.952,8.291,False
+CHEBI:29484,"(S)-4,5-dihydroxypentane-2,3-dione",,-22.712,3.599,False
+CHEBI:30362,isopentane,78-78-4,2.461,0.981,False
+CHEBI:30363,isobutane,75-28-5,-0.394,2.202,False
+CHEBI:30395,acetylacetonate,17272-66-1,-6.948,2.447,False
+CHEBI:30941,amicetose,27518-97-4,0.997,4.132,False
+CHEBI:30981,digitoxose,527-52-6,5.153,6.492,False
+CHEBI:31328,butyl acetate,123-86-4,8.800,0.580,True
+CHEBI:31404,Citric acid monohydrate,5949-29-1,10.796,1.345,False
+CHEBI:31571,ethyl isovalerate,108-64-5,9.700,0.580,True
+CHEBI:31725,isoamyl  acetate,123-92-2,20.600,0.580,True
+CHEBI:31726,isoamyl formate,110-45-2,12.100,0.580,True
+CHEBI:32329,"cis-cyclohexane-1,2-diol",1792-81-0,15.114,2.859,False
+CHEBI:32362,heptanoate,7563-37-3,4.528,3.939,False
+CHEBI:32400,9-crown-3,,-21.196,4.367,False
+CHEBI:32478,aldehydo-D-paratose,5658-13-9,-1.550,5.564,False
+CHEBI:32485,L-rhodinose,,0.721,4.366,False
+CHEBI:32576,boivinose,,-4.154,5.892,False
+CHEBI:32585,4-hydroxynon-2-enal,29343-52-0,32.282,3.532,False
+CHEBI:32892,nonane,111-84-2,30.600,0.580,True
+CHEBI:34056,"octane-1,2-diol",1117-86-8,17.213,3.499,False
+CHEBI:34118,oct-1-en-3-ol,3391-86-4,33.104,3.000,False
+CHEBI:34273,"2-Ethyl-1,3-hexanediol",94-96-2,24.695,3.477,False
+CHEBI:34787,Heptanal,111-71-7,5.300,0.580,True
+CHEBI:34810,Lactitol dihydrate,81025-03-8,10.796,1.345,False
+CHEBI:34833,"1,3,5-trimethylbenzene",108-67-8,131.077,15.957,False
+CHEBI:34840,methyl methacrylate,80-62-6,-2.200,0.580,True
+CHEBI:34841,Methyl methoxyacetate,6290-49-9,-33.473,3.204,False
+CHEBI:35194,isoprene,78-79-5,31.420,5.359,False
+CHEBI:35400,meso-tartrate(1-),,10.796,1.345,False
+CHEBI:35453,5-dehydro-4-deoxy-D-glucarate(1-),,10.796,1.345,False
+CHEBI:35572,phorone,504-20-1,83.979,6.892,False
+CHEBI:35686,(2R)-butan-2-ol,14898-79-4,-7.800,0.580,True
+CHEBI:35687,butan-2-ol,78-92-2,-8.600,0.580,True
+CHEBI:35897,but-3-enoic acid,625-38-7,-14.639,2.001,False
+CHEBI:35928,dimethyl peroxide,690-02-8,-32.472,3.070,False
+CHEBI:35929,diethyl peroxide,628-37-5,-17.169,2.448,False
+CHEBI:35936,pent-4-enoic acid,591-80-0,-2.539,2.905,False
+CHEBI:35939,pent-2-enoic acid,626-98-2,4.643,2.459,False
+CHEBI:35962,sorbic acid,22500-92-1,26.374,6.196,False
+CHEBI:36148,4-hydroxy-2-oxoglutarate(1-),,10.796,1.345,False
+CHEBI:36149,2-hydroxyglutarate(1-),,10.796,1.345,False
+CHEBI:36152,2-heptenoic acid,18999-28-5,16.273,3.327,False
+CHEBI:36253,isocrotonic acid,503-64-0,-7.294,2.534,False
+CHEBI:36404,cyclohexene,110-83-8,23.700,0.580,True
+CHEBI:36432,2-methylbut-2-enoic acid,13201-46-2,6.417,2.344,False
+CHEBI:36453,isocitrate(2-),,10.796,1.345,False
+CHEBI:36454,isocitrate(1-),,10.796,1.345,False
+CHEBI:36455,homoisocitrate(2-),,10.796,1.345,False
+CHEBI:36456,homoisocitrate(1-),,10.796,1.345,False
+CHEBI:36596,dimethyl carbonate,616-38-6,-30.800,0.580,True
+CHEBI:36927,carbon-14 atom,14762-75-5,8.030,2.519,False
+CHEBI:36928,carbon-13 atom,14762-74-4,8.030,2.519,False
+CHEBI:36929,carbon-11 atom,14333-33-6,8.030,2.519,False
+CHEBI:36930,carbon-10 atom,15578-68-4,8.030,2.519,False
+CHEBI:36931,carbon-12 atom,,8.030,2.519,False
+CHEBI:37032,3-hydroxy-5-oxohexanoic acid,109138-72-9,0.863,6.155,False
+CHEBI:37035,3-hydroxyhexanoic acid,10191-24-9,-2.940,3.696,False
+CHEBI:37049,(S)-3-hydroxyhexanoic acid,,-0.354,3.987,False
+CHEBI:37051,3-hydroxy-2-methylbutanoic acid,473-86-9,-11.954,2.956,False
+CHEBI:37052,"(2S,3S)-3-hydroxy-2-methylbutanoic acid",,-8.565,2.342,False
+CHEBI:37070,2-methylbutyric acid,116-53-0,-9.722,1.352,False
+CHEBI:37098,3-hydroxyoctanoic acid,14292-27-4,10.860,3.885,False
+CHEBI:37100,(S)-3-hydroxyoctanoic acid,,10.892,3.736,False
+CHEBI:37108,7-methyloctanoic acid,693-19-6,23.846,3.591,False
+CHEBI:37127,3-methylbut-2-enoic acid,541-47-9,10.543,2.870,False
+CHEBI:37373,(S)-3-hydroxyisobutyric acid,2068-83-9,-20.071,2.616,False
+CHEBI:37551,1-hydroxy-3-methoxyacetone,89124-41-4,-30.999,3.394,False
+CHEBI:37552,1-ethoxy-3-hydroxyacetone,,-22.298,2.687,False
+CHEBI:37553,1-hydroxy-3-propoxyacetone,,-14.150,2.610,False
+CHEBI:37655,D-erythronic acid,,-41.337,5.980,False
+CHEBI:37821,"hexa-1,5-diyne",628-16-0,64.072,8.205,False
+CHEBI:37823,"deca-1,9-diyne",1720-38-3,103.050,9.841,False
+CHEBI:37869,octan-2-ol,123-96-6,24.400,0.580,True
+CHEBI:37870,(2S)-octan-2-ol,6169-06-8,22.024,2.295,False
+CHEBI:37871,(2R)-octan-2-ol,5978-70-1,20.820,2.610,False
+CHEBI:37873,"(2S)-octane-1,2-diol",,15.743,2.534,False
+CHEBI:37874,"(2R)-octane-1,2-diol",,15.669,3.370,False
+CHEBI:38355,hex-4-enoic acid,,14.244,2.734,False
+CHEBI:38356,trans-hex-4-enoic acid,1577-20-4,13.379,2.539,False
+CHEBI:38357,cis-hex-4-enoic acid,,12.932,3.319,False
+CHEBI:38358,"(2E,4E)-hexa-2,4-dienoic acid",110-44-1,28.946,6.256,False
+CHEBI:38360,"(2Z,4E)-hexa-2,4-dienoic acid",,26.499,5.610,False
+CHEBI:38361,"(2E,4Z)-hexa-2,4-dienoic acid",,24.626,5.418,False
+CHEBI:38363,hept-6-enoic acid,1119-60-4,12.872,3.022,False
+CHEBI:38364,trans-2-heptenoic acid,10352-88-2,15.592,3.795,False
+CHEBI:38365,cis-2-heptenoic acid,,18.654,3.807,False
+CHEBI:38366,trans-pent-2-enoic acid,13991-37-2,4.650,2.456,False
+CHEBI:38367,cis-pent-2-enoic acid,16666-42-5,4.113,2.522,False
+CHEBI:38368,pent-3-enoic acid,5204-64-8,5.493,2.681,False
+CHEBI:38369,cis-pent-3-enoic acid,33698-87-2,5.824,2.561,False
+CHEBI:38370,trans-pent-3-enoic acid,1617-32-9,5.506,2.682,False
+CHEBI:38647,"3,3-dimethylbutyric acid",1070-83-3,8.707,1.648,False
+CHEBI:38649,"2,2-dimethylbutyric acid",595-37-9,-0.600,0.580,True
+CHEBI:38650,"2,3-dimethylbutyric acid",14287-61-7,3.647,1.346,False
+CHEBI:38651,"(R)-2,3-dimethylbutyric acid",,1.127,2.097,False
+CHEBI:38652,"(S)-2,3-dimethylbutyric acid",,2.112,1.961,False
+CHEBI:38655,(S)-2-methylbutyric acid,1730-91-2,-9.716,1.352,False
+CHEBI:38690,(S)-glycidol,60456-23-7,-32.109,2.976,False
+CHEBI:38726,methyl 3-hydroxybut-2-enoate,,-4.115,2.777,False
+CHEBI:38868,isopropyl 3-hydroxybut-2-enoate,,15.215,3.585,False
+CHEBI:39028,2-butyltetrahydrofuran,1004-29-1,47.141,5.577,False
+CHEBI:39478,"buta-1,3-diene",106-99-0,14.487,6.976,False
+CHEBI:39480,"buta-1,2-diene",590-19-2,19.548,3.978,False
+CHEBI:39832,methoxyethane,540-67-0,-25.049,1.369,False
+CHEBI:39932,(R)-oct-1-en-3-ol,,29.262,3.045,False
+CHEBI:40116,propyl acetate,109-60-4,-9.300,0.580,True
+CHEBI:40572,diethylene glycol monoethyl ether,111-90-0,-17.743,2.515,False
+CHEBI:41189,"butane-1,4-diol",110-63-4,-14.154,2.176,False
+CHEBI:41268,4-hydroxybutan-2-one,590-90-9,-21.877,1.848,False
+CHEBI:41607,crotonaldehyde,"123-73-9
+4170-30-3",-7.762,1.793,False
+CHEBI:42090,L-threitol,,-30.380,4.311,False
+CHEBI:42263,"1,2-dimethoxyethane",110-71-4,-28.800,0.580,True
+CHEBI:43078,"hexane-1,6-diol",629-11-8,0.734,2.456,False
+CHEBI:43208,"(2R,3R)-heptane-1,2,3-triol",,9.079,3.424,False
+CHEBI:43219,"(2E,4R)-4-hydroxynon-2-enal",,38.623,5.151,False
+CHEBI:43907,2-methylprop-1-ene,115-11-7,21.031,4.289,False
+CHEBI:44224,"(4S)-2-methylpentane-2,4-diol",,11.006,1.433,False
+CHEBI:44664,1-ethoxy-2-(2-ethoxyethoxy)ethane,112-36-7,-6.169,4.788,False
+CHEBI:44836,2-(2-methoxyethoxy)ethanol,111-77-3,-23.800,0.580,True
+CHEBI:44884,pentan-1-ol,71-41-0,-7.700,0.580,True
+CHEBI:46415,deaminohydroxyvaline,,-16.372,2.304,False
+CHEBI:46645,isobutanol,78-83-1,-6.500,0.580,True
+CHEBI:46646,D-xyluronic acid,,-31.947,8.045,False
+CHEBI:46673,D-arabinosone,3445-24-7,-26.047,6.403,False
+CHEBI:46675,2-keto-D-xylose,26188-06-7,-29.621,6.108,False
+CHEBI:46708,oct-1-ene,111-66-0,39.800,0.580,True
+CHEBI:46735,(S)-oct-1-en-3-ol,,31.311,3.193,False
+CHEBI:46916,vinyl acetate,108-05-4,-18.422,1.655,False
+CHEBI:46924,"1,3-dioxane",505-22-6,-25.196,1.912,False
+CHEBI:46983,aldehydo-D-arabinose,10323-20-3,-28.661,5.677,False
+CHEBI:47000,L-ribofuranose,,-22.692,7.411,False
+CHEBI:47014,aldehydo-D-ribose,50-69-1,-27.585,5.557,False
+CHEBI:47015,aldehydo-L-ribose,24259-59-4,-29.839,5.240,False
+CHEBI:47856,citronellal,106-23-0,67.635,4.401,False
+CHEBI:48087,but-1-yne,107-00-6,22.303,4.515,False
+CHEBI:48251,"1alpha,3alpha,4beta-p-menthane-3,8-diol",,76.994,6.299,False
+CHEBI:48255,"1alpha,3beta,4beta-p-menthane-3,8-diol",,69.928,5.681,False
+CHEBI:48256,"1beta,3alpha,4alpha-p-menthane-3,8-diol",,74.778,6.150,False
+CHEBI:48258,"1beta,3beta,4beta-p-menthane-3,8-diol",,77.393,6.665,False
+CHEBI:48260,"1beta,3alpha,4beta-p-menthane-3,8-diol",,79.609,6.315,False
+CHEBI:48299,"butane-1,2,3,4-tetrol","149-32-6
+7541-59-5",-28.188,4.316,False
+CHEBI:48300,D-threitol,"2418-52-2
+7493-90-5",-26.785,4.135,False
+CHEBI:48341,dimethoxymethane,109-87-5,-30.300,0.580,True
+CHEBI:48362,but-1-ene,106-98-9,2.444,3.376,False
+CHEBI:48363,but-2-ene,107-01-7,12.676,3.672,False
+CHEBI:48365,trans-but-2-ene,624-64-6,12.677,3.672,False
+CHEBI:48366,cis-but-2-ene,590-18-1,12.980,3.477,False
+CHEBI:48426,"1,2-dioxane",5703-46-8,-14.792,3.000,False
+CHEBI:48657,L-xylo-hexos-2-ulose,,-24.263,6.612,False
+CHEBI:48666,D-xylo-hexos-2-ulose,,-28.415,6.485,False
+CHEBI:48943,isobutyraldehyde,78-84-2,-14.300,0.580,True
+CHEBI:48945,2-methylbutan-1-ol,"137-32-6
+1565-80-6",3.000,0.580,True
+CHEBI:49058,L-erythronic acid,,-40.360,4.998,False
+CHEBI:49059,D-threonic acid,"20246-26-8
+3909-12-4",-38.845,6.104,False
+CHEBI:49060,"2,3,4-trihydroxybutanoic acid",7306-96-9,-43.848,6.374,False
+CHEBI:49076,(S)-2-hydroxymethylglutaric acid,,-0.807,8.798,False
+CHEBI:49077,2-hydroxymethylglutaric acid,,-0.451,8.011,False
+CHEBI:49078,(R)-2-hydroxymethylglutaric acid,,-3.124,8.028,False
+CHEBI:49106,oxepane,592-90-5,12.726,2.837,False
+CHEBI:49283,3-hexenoic acid,4219-24-3,13.510,2.803,False
+CHEBI:49284,cis-hex-3-enoic acid,1775-43-5,11.925,2.720,False
+CHEBI:49285,trans-hex-3-enoic acid,1577-18-0,16.002,2.724,False
+CHEBI:49293,6-hydroxyhex-3-enoic acid,,10.552,3.610,False
+CHEBI:50035,alpha-phellandrene,99-83-2,135.761,10.397,False
+CHEBI:50139,heptan-3-one,106-35-4,0.500,0.580,True
+CHEBI:50215,dihydrocarveol,619-01-2,96.775,5.436,False
+CHEBI:50244,"(1R,2R,4S)-limonene-1,2-diol",,88.420,5.667,False
+CHEBI:50281,lavandulol,498-16-8,98.674,7.332,False
+CHEBI:50282,(S)-lavandulol,50373-53-0,101.952,6.981,False
+CHEBI:50283,(R)-lavandulol,498-16-8,101.933,6.982,False
+CHEBI:50429,(Z)-glutaconic acid,,9.784,6.202,False
+CHEBI:50462,citronellol,106-22-9,72.323,6.078,False
+CHEBI:50569,isobutyl acetate,110-19-0,6.900,0.580,True
+CHEBI:50585,2-methylbutyl acetate,624-41-9,12.141,2.252,False
+CHEBI:50612,(R)-2-hydroxybutyric acid,20016-85-7,-28.304,2.727,False
+CHEBI:50613,(S)-2-hydroxybutyric acid,3347-90-8,-27.346,2.628,False
+CHEBI:50624,(R)-2-methylbutan-1-ol,616-16-0,-4.571,1.661,False
+CHEBI:50625,(S)-2-methylbutan-1-ol,1565-80-6,-2.963,1.083,False
+CHEBI:51196,"2,2,3,4-tetramethyloxetene",27974-59-0,59.063,6.931,False
+CHEBI:51375,singlet methanediyl,,8.952,8.291,False
+CHEBI:51376,triplet methanediyl,,8.952,8.291,False
+CHEBI:51780,hex-2-en-4-ynal,,52.544,6.948,False
+CHEBI:51781,(E)-hex-2-en-4-ynal,,53.319,6.940,False
+CHEBI:51782,(Z)-hex-2-en-4-ynal,,53.266,7.183,False
+CHEBI:51922,"(E,E)-7-hydroxy-6-methylhepta-3,5-dienal",,53.774,8.828,False
+CHEBI:52342,ethyl formate,109-94-4,-32.900,0.580,True
+CHEBI:52417,D-glucosone,"1854-25-7
+26345-59-5",-29.598,6.350,False
+CHEBI:52682,"butane-1,2-diol",584-03-2,-15.991,2.630,False
+CHEBI:52683,"butane-1,3-diol",107-88-0,-12.318,1.710,False
+CHEBI:52685,"(R)-butane-1,2-diol",40348-66-1,-16.001,2.630,False
+CHEBI:52686,"(S)-butane-1,2-diol",40348-66-1,-17.044,2.067,False
+CHEBI:52687,"(R)-butane-1,3-diol",6290-03-5,-13.286,1.854,False
+CHEBI:52688,"(S)-butane-1,3-diol",24621-61-2,-13.503,1.974,False
+CHEBI:52774,"pentane-2,3-dione",600-14-6,-16.720,2.893,False
+CHEBI:53440,2-hydroxypropyl methacrylate,923-26-2,15.480,3.474,False
+CHEBI:53459,hydroxycitronellal,107-75-5,38.075,4.189,False
+CHEBI:53505,2-methoxypropane,598-53-8,-13.140,1.092,False
+CHEBI:53533,"(E,E)-2-methyl-6-oxohepta-2,4-dienol",,51.608,7.062,False
+CHEBI:55381,diacetone alcohol,123-42-2,4.451,1.608,False
+CHEBI:55434,"(2S,3R)-3-hydroxy-2-methylpentanoic acid",,0.045,2.637,False
+CHEBI:55534,(R)-2-hydroxy-4-methylpentanoic acid,20312-37-2,0.125,3.035,False
+CHEBI:55535,(R)-2-hydroxy-4-methylpentanoate,,-0.607,3.417,False
+CHEBI:55536,"(2R,3S)-2-hydroxy-3-methylpentanoic acid",,-6.351,2.451,False
+CHEBI:55541,(R)-2-hydroxyadipic acid,,-6.312,7.145,False
+CHEBI:58967,"(2E,4S)-4-hydroxynon-2-enal",,34.762,3.694,False
+CHEBI:58968,(E)-4-hydroxynon-2-enal,"18286-49-2
+75899-68-2",40.904,4.640,False
+CHEBI:59052,"1,1-dihydroxy-3-ethoxy-2-butanone",27762-78-3,-18.043,3.630,False
+CHEBI:59065,"3,3,5-trimethylcyclohexanol",116-02-9,71.149,5.258,False
+CHEBI:59156,4-isopropyl-1-methylenecyclohexane,1124-24-9,104.048,4.550,False
+CHEBI:59157,(+)-trans-2-menthene,,110.548,7.743,False
+CHEBI:59159,beta-terpinene,99-84-3,138.722,9.621,False
+CHEBI:59161,(Z)-2-methyl-6-methyleneoct-4-ene,79186-83-7,100.772,6.530,False
+CHEBI:59623,(5R)-5-isopropenyl-2-methylcyclohexane-1-hydroperoxide,,92.348,5.724,False
+CHEBI:59627,4-isopropyl-1-methylcyclohexane-1-hydroperoxide,,70.020,6.594,False
+CHEBI:59783,2-hydroxy-4-methylvaleric acid,498-36-2,4.863,3.383,False
+CHEBI:59988,alpha-tyvelopyranose,,-0.221,7.651,False
+CHEBI:59992,alpha-abequopyranose,,3.414,7.244,False
+CHEBI:59993,alpha-D-paratopyranose,,1.075,7.354,False
+CHEBI:60158,"(E)-4,8-dimethyl-1,3,7-nonatriene",19945-61-0,147.026,11.274,False
+CHEBI:60631,(S)-2-hydroxy-3-methylbutyric acid,,-18.150,2.597,False
+CHEBI:60647,2-hydroxypentanoic acid,617-31-2,-15.978,2.605,False
+CHEBI:60777,3-deoxyglucosone,4084-27-9,-12.220,5.784,False
+CHEBI:60785,2-keto-L-xylose,,-28.314,6.330,False
+CHEBI:61206,2-hexenoic acid,,11.033,2.587,False
+CHEBI:61213,methyl beta-D-tyvelopyranoside,,-1.871,7.385,False
+CHEBI:61316,(3Z)-hex-3-en-1-yl acetate,3681-71-8,25.118,2.726,False
+CHEBI:61722,2-pentenal,764-39-6,5.055,2.868,False
+CHEBI:61724,hept-2-enal,2463-63-0,20.242,2.583,False
+CHEBI:61725,oct-2-enal,2363-89-5,29.075,2.879,False
+CHEBI:61726,non-2-enal,2463-53-8,41.477,3.204,False
+CHEBI:61748,(E)-oct-2-enal,2548-87-0,28.408,2.857,False
+CHEBI:62012,5-deoxy-D-ribose,,-21.434,4.232,False
+CHEBI:62064,"butane-2,3-diol",513-85-9,-11.750,2.269,False
+CHEBI:62805,isooctane,540-84-1,48.600,0.580,True
+CHEBI:62891,crotyl alcohol,6117-91-5,-5.940,3.498,False
+CHEBI:62898,isopentenyl alcohol,763-32-6,11.022,2.615,False
+CHEBI:62995,"2-methylpentane-2,4-diol",107-41-5,12.686,1.685,False
+CHEBI:63735,"(2Z,4Z)-2-hydroxyhexa-2,4-dienoic acid",,11.048,4.057,False
+CHEBI:63910,4-methylpentan-1-ol,"1320-98-5
+626-89-1",8.100,0.580,True
+CHEBI:63921,2-butoxyethanol,111-76-2,-7.800,0.580,True
+CHEBI:64090,tert-butyl hydroperoxide,75-91-2,-2.835,2.043,False
+CHEBI:64235,(6E)-8-hydroxygeraniol,26488-97-1,95.516,9.751,False
+CHEBI:64280,(E)-beta-ocimene,"13877-91-3
+3779-61-1",129.340,10.244,False
+CHEBI:65058,"3-methylbutane-1,2-diol",50468-22-9,-2.338,2.324,False
+CHEBI:67095,"heptane-1,2,3-triol",103404-57-5,8.777,3.076,False
+CHEBI:67191,"(2E,4E,6E)-7-hydroxy-4-methylhepta-2,4,6-trienal",,71.665,7.627,False
+CHEBI:67193,4-methylheptane,589-53-7,27.500,0.580,True
+CHEBI:67254,3-(2-methoxyethoxy)propanoic acid,,-21.089,3.575,False
+CHEBI:67255,2-(2-methoxyethoxy)propanoic acid,,-16.606,3.501,False
+CHEBI:67880,"(4S,5S)/(4R,5R)-2,2,4-triethyl-5-methyl-1,3-dioxolane",,67.072,8.714,False
+CHEBI:67881,"trans-(2R/S)-2,4-diethyl-2,5-dimethyl-1,3-dioxolane",,60.844,8.486,False
+CHEBI:67882,"rel-(2R/S,4S,5S)-4-ethyl-5-methyl-2-(1-methylethyl)-1,3-dioxolane",,65.187,8.276,False
+CHEBI:67883,"rel-(2R/S,4R,5R)-4-ethyl-5-methyl-2-(1-methylethyl)-1,3-dioxolane",,63.406,8.305,False
+CHEBI:67884,"rel-(2R/S,4S,5S)-4-ethyl-5-methyl-2-(1-methylpropyl)-1,3-dioxolane",,74.147,7.687,False
+CHEBI:67885,"rel-(2R/S,4S,5S)-4-ethyl-5-methyl-2-(2-methylpropyl)-1,3-dioxolane",,73.425,6.925,False
+CHEBI:67887,(R)-4-methyl-1-heptanol,,24.140,2.128,False
+CHEBI:68566,3-methylglutaric acid,626-51-7,4.748,6.353,False
+CHEBI:68567,2-methylglutaric acid,"18069-17-5
+617-62-9",8.025,6.364,False
+CHEBI:70479,isopulegol,89-79-2,96.492,5.662,False
+CHEBI:70480,"neo-isopulegol, rel-",,94.443,6.233,False
+CHEBI:73148,(S)-4-hydroxy-2-oxopentanoic acid,,-17.072,4.276,False
+CHEBI:73151,(S)-4-hydroxy-2-oxohexanoic acid,,-8.059,4.491,False
+CHEBI:73156,trans-cyclooctene,931-89-5,65.865,5.353,False
+CHEBI:73689,methyl isobutyrate,547-63-7,-12.700,0.580,True
+CHEBI:73752,2-hydroxyheptanoic acid,636-69-1,-0.710,4.067,False
+CHEBI:73967,"2,2,4-trihydroxybutanoic acid",,-43.748,5.553,False
+CHEBI:74165,"(E)-1,3-pentadiene",2004-70-8,24.996,5.337,False
+CHEBI:74611,methyl (R)-lactate,17392-83-5,-30.422,2.337,False
+CHEBI:74904,isocaproate,,8.265,2.529,False
+CHEBI:75146,monomethyl succinate,3878-55-5,-8.315,4.851,False
+CHEBI:75460,"meso-butane-2,3-diol",5341-95-7,-11.185,1.815,False
+CHEBI:76306,(+)-menthol,15356-60-2,76.706,5.939,False
+CHEBI:76721,(E)-4-oxohex-2-enal,2492-43-5,6.212,3.635,False
+CHEBI:77322,methyl hexanoate,106-70-7,-5.700,0.580,True
+CHEBI:77443,1-nonene,124-11-8,52.800,0.580,True
+CHEBI:77504,"1,3,5-octatriene",,78.505,9.013,False
+CHEBI:77517,3-methyl-2-butanol,598-75-4,4.500,0.580,True
+CHEBI:77518,2-pentanol,6032-29-7,-0.300,0.580,True
+CHEBI:77519,3-pentanol,584-02-1,-2.000,0.580,True
+CHEBI:77520,3-methyl-2-pentanol,565-60-6,11.400,0.580,True
+CHEBI:77700,methyl acetate,79-20-9,-29.000,0.580,True
+CHEBI:77914,3-methylbut-1-ene,563-45-1,18.382,2.017,False
+CHEBI:77915,2-methylbut-1-ene,563-46-2,17.644,2.593,False
+CHEBI:77916,2-methylbut-2-ene,513-35-9,20.400,0.580,True
+CHEBI:77922,isopentenol,,16.501,1.601,False
+CHEBI:77927,nonan-2-one,821-55-6,22.900,0.580,True
+CHEBI:77929,decan-2-one,693-54-9,33.400,0.580,True
+CHEBI:78304,2-nonanol,628-99-9,29.831,2.710,False
+CHEBI:78321,ethyl 2-hydroxypropanoate,,-21.156,2.393,False
+CHEBI:78322,ethyl (2S)-lactate,687-47-8,-19.845,2.557,False
+CHEBI:78323,ethyl (2R)-lactate,,-19.971,2.594,False
+CHEBI:78669,aldehydo-ascarylose,32142-24-8,-5.067,5.306,False
+CHEBI:78771,ascarylopyranose,,4.391,7.075,False
+CHEBI:78772,alpha-ascarylopyranose,,0.581,7.360,False
+CHEBI:78773,beta-ascarylopyranose,,1.443,6.969,False
+CHEBI:78774,6-hydroxyheptanoic acid,,13.023,3.361,False
+CHEBI:78775,(6R)-6-hydroxyheptanoic acid,,11.536,3.831,False
+CHEBI:78781,(6S)-6-hydroxyheptanoic acid,,11.055,3.484,False
+CHEBI:78816,5-hydroxyhexan-2-one,56745-61-0,3.985,2.194,False
+CHEBI:78817,(5R)-5-hydroxyhexan-2-one,,1.908,2.440,False
+CHEBI:78831,"(2E,6R)-6-hydroxyhept-2-enoic acid",,21.762,4.297,False
+CHEBI:78842,(5R)-5-hydroxyhexanoic acid,44843-89-2,0.967,4.875,False
+CHEBI:78884,4-terpineol,562-74-3,101.304,6.062,False
+CHEBI:79019,(4R)-4-hydroxypentanoic acid,,-5.887,3.008,False
+CHEBI:79054,D-arabinofuranose,,-23.907,8.437,False
+CHEBI:79112,7-hydroxyheptanoic acid,3710-42-7,5.880,3.992,False
+CHEBI:80444,"3,6-Nonadienal",,75.655,7.882,False
+CHEBI:80507,Citronellate,502-47-6,55.987,5.447,False
+CHEBI:80634,2-n-Propyl-4-pentenoic acid,1575-72-0,26.695,3.319,False
+CHEBI:80635,4-Hydroxyvalproic acid,60113-82-8,16.292,3.744,False
+CHEBI:80636,5-Hydroxyvalproic acid,53660-23-4,12.685,3.660,False
+CHEBI:80637,3-Hydroxyvalproic acid,58888-84-9,18.125,3.791,False
+CHEBI:80639,2-n-Propyl-2-pentenoic acid,60218-41-9,30.044,3.792,False
+CHEBI:80640,2-n-Propyl-3-pentenoic acid,72010-19-6,32.266,3.634,False
+CHEBI:80641,2-n-Propyl-4-oxopentanoic acid,,13.318,3.353,False
+CHEBI:80642,"2-Propyl-2,4-pentadienoic acid",72010-18-5,39.248,4.518,False
+CHEBI:80945,3-octanol,"22658-92-0
+589-98-0",20.600,0.580,True
+CHEBI:80946,3-Octanone,106-68-3,8.800,0.580,True
+CHEBI:81151,gamma-Terpineol,586-81-2,108.645,6.849,False
+CHEBI:81160,Rengyol,,32.534,4.322,False
+CHEBI:81217,Chrysanthemol,5617-92-5,100.744,10.867,False
+CHEBI:81293,Vinyl ether,109-93-3,-1.948,5.735,False
+CHEBI:82326,"1,2-Epoxybutane",106-88-7,-17.900,0.580,True
+CHEBI:82327,Ethyl acrylate,140-88-5,-13.000,0.580,True
+CHEBI:82334,"2,4-Hexadienal",142-83-6,29.885,6.000,False
+CHEBI:82344,Methyl isobutyl ketone,108-10-1,3.700,0.580,True
+CHEBI:82377,4-Vinylcyclohexene,100-40-3,89.930,7.797,False
+CHEBI:82380,Allyl isovalerate,2835-39-4,26.065,2.577,False
+CHEBI:82413,1-tert-Butoxy-2-propanol,57018-52-7,21.100,0.580,True
+CHEBI:82482,Methyl acrylate,96-33-3,-17.000,0.580,True
+CHEBI:82759,(S)-3-acetyloctanal,,23.332,3.700,False
+CHEBI:82956,2-ethylhydracrylic acid,4374-62-3,-18.162,2.630,False
+CHEBI:83008,"(2S)-2,6-dimethylheptan-1-ol",,41.698,3.671,False
+CHEBI:83009,"(2R)-2,6-dimethylheptan-1-ol",,41.800,3.874,False
+CHEBI:83010,(6S)-6-methyloctan-1-ol,,28.597,3.043,False
+CHEBI:83104,"2,6-dimethylheptan-1-ol",,41.212,4.029,False
+CHEBI:83221,methyl 2-hydroxypropionate,547-64-8,-30.070,2.305,False
+CHEBI:83222,methyl (S)-lactate,27871-49-4,-32.300,0.580,True
+CHEBI:84216,"(2R,3S)-2-methyl-3-propyloxirane",,7.297,3.496,False
+CHEBI:84218,(4E)-7-methyldec-4-ene,,87.229,7.093,False
+CHEBI:84221,1-ethyl-2-propylcyclohexane,,76.788,5.368,False
+CHEBI:84226,"(3E)-2,3,4-trimethylhex-3-enal",,68.745,5.049,False
+CHEBI:84231,"(3E)-2,6-dimethyloct-3-ene",,81.056,5.570,False
+CHEBI:84235,2-butyl-1-octanol,3913-02-8,45.698,4.702,False
+CHEBI:84237,"3,5-dimethyloctane",15869-93-9,53.325,3.791,False
+CHEBI:84242,"3,7-dimethyl-3-octanol",78-69-3,49.163,4.772,False
+CHEBI:84252,5-methyldec-1-ene,,71.810,4.978,False
+CHEBI:84268,nonanal,124-19-6,20.700,0.580,True
+CHEBI:84281,2-isopropyl-5-methyl-1-heptanol,,60.562,4.316,False
+CHEBI:84286,3-methoxy-3-methylhexane,,24.015,2.233,False
+CHEBI:84894,"hexane-2,5-diol",2935-44-6,8.147,1.738,False
+CHEBI:84966,ipsdienone,539-70-8,85.647,8.027,False
+CHEBI:84970,(4R)-ipsdienol,60894-97-5,112.181,9.811,False
+CHEBI:84978,2-ethylacrylic acid,3586-58-1,-2.944,2.534,False
+CHEBI:85014,"2,5-hexanedione",110-13-4,0.501,2.225,False
+CHEBI:85710,cis-2-enoyl-[acyl-carrier protein],,10.549,2.497,False
+CHEBI:86055,ethyl hexanoate,123-66-0,9.247,2.218,False
+CHEBI:86347,"2,3-dihydroxybutanoic acid",759-06-8,-35.121,4.005,False
+CHEBI:86348,"2,4-dihydroxybutanoic acid",1518-62-3,-31.990,3.566,False
+CHEBI:86350,2-deoxy-D-ribonic acid,,-15.346,6.643,False
+CHEBI:86353,2-deoxy-D-ribonate,,-13.954,7.446,False
+CHEBI:86371,"3,4-dihydroxybutyric acid","1518-61-2
+51267-44-8",-27.089,3.753,False
+CHEBI:86391,4-deoxythreonic acid,5057-93-2,-35.854,4.139,False
+CHEBI:86396,monomethyl glutaric acid,1501-27-5,-2.267,6.918,False
+CHEBI:86542,2-hydroxyhexanoic acid,6064-63-7,-8.915,2.476,False
+CHEBI:86543,2-hydroxyoctanoic acid,617-73-2,1.916,4.259,False
+CHEBI:86544,2-octenoic acid,1871-67-6,24.637,4.132,False
+CHEBI:86618,ethyl heptanoate,106-30-9,18.170,3.648,False
+CHEBI:87268,2-(carboxyethoxy)propanal,,-2.503,6.843,False
+CHEBI:87275,3-methyl-4-{[(1Z)-prop-1-en-1-yl]oxy}butanal,,29.564,2.918,False
+CHEBI:87282,ethyl 4-oxobutanoate,10138-10-0,-11.935,2.912,False
+CHEBI:87288,"3-ethyl-1,5-octadiene",,87.543,6.434,False
+CHEBI:87290,(1-methylbutyl)cyclopentane,,87.262,5.767,False
+CHEBI:87294,3-ethoxypropyl acetate,,-6.494,2.655,False
+CHEBI:87299,ethyl 5-hexenoate,,17.182,2.461,False
+CHEBI:87303,ethyl isobutyrate,97-62-1,-6.600,0.580,True
+CHEBI:87309,3-decanone,928-80-3,30.700,0.580,True
+CHEBI:87315,1-decene,872-05-9,69.000,0.580,True
+CHEBI:87317,"2-isopropyl-1,3-dioxolane",822-83-3,24.563,6.789,False
+CHEBI:87318,sec-butyl butyrate,819-97-6,16.109,3.254,False
+CHEBI:87322,dec-1-yne,764-93-2,68.912,5.253,False
+CHEBI:87326,3-methylheptyl acetate,,33.521,3.320,False
+CHEBI:87334,ethyl (2Z)-but-2-enoate,6776-19-8,-0.047,1.936,False
+CHEBI:87362,pentyl acetate,628-63-7,15.600,0.580,True
+CHEBI:87363,4-oxopentanal,626-96-0,-14.127,1.825,False
+CHEBI:87373,pentyl propanoate,624-54-4,12.217,2.428,False
+CHEBI:87378,(2S)-2-heptanol,6033-23-4,12.166,1.534,False
+CHEBI:87379,3-methyl-1-butyne,598-23-2,34.075,4.304,False
+CHEBI:87381,3-methylpentanol,589-35-5,9.200,0.580,True
+CHEBI:87383,1-butoxy-1-ethoxyethane,57006-87-8,8.193,2.377,False
+CHEBI:87390,3-oxobutyl acetate,,3.374,4.081,False
+CHEBI:87392,2-ethylhexyl acetate,103-09-3,32.310,4.052,False
+CHEBI:87419,isoamyl propanoate,105-68-0,21.586,3.782,False
+CHEBI:87422,isoamyl butyrate,106-27-4,25.940,2.845,False
+CHEBI:87429,butyl butanoate,109-21-7,10.912,2.399,False
+CHEBI:87432,methyl octanoate,111-11-5,13.300,0.580,True
+CHEBI:87434,2-octanone,111-13-7,11.700,0.580,True
+CHEBI:87489,3-ethoxy-1-propanol,111-35-3,-12.682,1.846,False
+CHEBI:87496,octyl formate,112-32-3,16.890,2.533,False
+CHEBI:87499,undecanol,112-42-5,46.336,4.421,False
+CHEBI:87508,4-penten-2-one,13891-87-7,-3.692,2.768,False
+CHEBI:87510,hexyl acetate,142-92-7,5.197,2.611,False
+CHEBI:87514,ethyl 2-hexenoate,1552-67-6,15.978,2.899,False
+CHEBI:87515,4-penten-1-yl acetate,1576-85-8,11.398,2.358,False
+CHEBI:87517,"4,5-dimethyl-1-hexene",16106-59-5,50.702,2.792,False
+CHEBI:87523,4-ethyl-1-hexene,16746-85-3,42.534,2.872,False
+CHEBI:87526,3-ethoxy-2-butanone,,-9.602,2.270,False
+CHEBI:87528,dihydromyrcenol,18479-58-8,69.926,5.441,False
+CHEBI:87529,myrcenol,543-39-5,79.549,5.631,False
+CHEBI:87530,"(4E)-2,3-dimethylhexa-1,4-diene",18669-52-8,81.741,6.525,False
+CHEBI:87534,3-methylbutyl 2-hydroxypropanoate,19329-89-6,11.184,3.354,False
+CHEBI:87537,isoamyl isobutyrate,2050-01-3,29.844,3.166,False
+CHEBI:87544,2-acetoxypropanal,22094-23-1,-13.669,2.864,False
+CHEBI:87549,hexyl propanoate,2445-76-3,18.278,2.835,False
+CHEBI:87560,ethyl 3-hexenoate,2396-83-0,23.929,3.105,False
+CHEBI:87567,1-hepten-3-one,2918-13-0,10.578,2.080,False
+CHEBI:87572,"2,4,5-trimethyl-1,3-dioxolane",3299-32-9,32.270,7.793,False
+CHEBI:87574,(Z)-beta-ocimene,3338-55-4,134.114,11.271,False
+CHEBI:87581,7-octen-2-one,3664-60-6,24.226,3.164,False
+CHEBI:87582,(4E)-hept-4-en-2-one,36678-43-0,22.433,2.733,False
+CHEBI:87583,"hexane-2,3-dione",3848-24-6,-8.440,2.115,False
+CHEBI:87586,7-octen-2-ol,39546-75-3,35.765,3.248,False
+CHEBI:87594,"2,6-dimethyl-5-hepten-1-ol",4234-93-9,62.528,5.080,False
+CHEBI:87595,1-isopropoxyacetone,,-0.285,3.279,False
+CHEBI:87600,"2,6-dimethyl-1,3,5,7-octatetraene",,139.362,12.581,False
+CHEBI:87683,isobutyl butyrate,539-90-2,17.476,2.654,False
+CHEBI:87685,ethyl 3-hydroxybutyrate,5405-41-4,-9.697,1.966,False
+CHEBI:87713,"(2R,3R)-2,3-di(propan-2-yl)oxirane",,47.260,5.212,False
+CHEBI:87721,(2E)-hexenoic acid,13419-69-7,11.861,2.858,False
+CHEBI:87754,"2,4-dimethyl-3-pentanone",565-80-0,18.900,0.580,True
+CHEBI:87809,2-ethylhexanal,123-05-7,9.600,0.580,True
+CHEBI:88063,"1,2,4-butanetriol",3068-00-6,-20.123,2.921,False
+CHEBI:88370,2-Hexanol,,5.800,0.580,True
+CHEBI:88373,3-Methylpentane,,12.200,0.580,True
+CHEBI:88374,2-Methylpentane,,9.800,0.580,True
+CHEBI:88375,3-Methyl-1-penten-3-ol,,18.988,1.771,False
+CHEBI:88379,Galactinol dihydrate,,10.796,1.345,False
+CHEBI:88390,1-Hydroxy-2-butanone,5077-67-8,-26.908,2.904,False
+CHEBI:88409,"(E)-4,4-Dimethyl-2-pentene",,53.859,4.085,False
+CHEBI:88410,(E)-Hept-3-ene,,35.900,0.580,True
+CHEBI:88411,2-Methyl-3-hexanone,,8.500,0.580,True
+CHEBI:88412,"2,4-Dimethyl-2-pentene",,58.894,5.391,False
+CHEBI:88413,2-Heptene,,31.700,0.580,True
+CHEBI:88414,(S)-2-Methylbutanal,1730-97-8,-11.138,1.098,False
+CHEBI:88419,Tiglic aldehyde,497-03-0,7.358,2.316,False
+CHEBI:88429,Methylcyclopentane,96-37-7,30.900,0.580,True
+CHEBI:88432,5-Methyl-2-hexanone,110-12-3,12.423,1.477,False
+CHEBI:88437,3-Methyl-3-buten-2-one,814-78-8,6.743,2.624,False
+CHEBI:88452,Ethyl 2-methylbutyrate,7452-79-1,-1.600,0.580,True
+CHEBI:88514,Butyl formate,592-84-7,1.000,0.580,True
+CHEBI:88528,Hexanal,66-25-1,-5.700,0.580,True
+CHEBI:88538,Methyl (S)-2-Methylbutanoate,53955-81-0,-8.500,0.580,True
+CHEBI:88552,cis-3-Decene,,66.927,4.646,False
+CHEBI:88553,(2S)-2-Ethylhexyl acetate,,26.768,3.016,False
+CHEBI:88554,3-(2-Methylpropyl)-cyclohexene,,96.530,6.399,False
+CHEBI:88555,1-(3-Methylbutyl)-cyclopentene,,126.654,9.607,False
+CHEBI:88584,"3,3,5-Trimethylheptane",,63.336,4.293,False
+CHEBI:88620,Methyl heptanoate,106-73-0,3.300,0.580,True
+CHEBI:88623,"2,3-Heptanedione",96-04-8,-1.461,2.714,False
+CHEBI:88652,"3,4-Hexanedione",4437-51-8,-10.507,2.160,False
+CHEBI:88653,3-Hexanol,623-37-0,5.500,0.580,True
+CHEBI:88764,Ethyl butyrate,105-54-4,-7.600,0.580,True
+CHEBI:88806,Methyl butyrate,623-42-7,-18.200,0.580,True
+CHEBI:88813,2-Methylpropyl propanoate,540-42-1,16.700,0.580,True
+CHEBI:88815,(±)-2-Heptanol,52390-72-4,14.000,0.580,True
+CHEBI:88818,"2,4-Octadiene",,62.892,5.577,False
+CHEBI:88819,(Z)-2-Octene,,39.504,2.524,False
+CHEBI:88820,(E)-2-Octene,,40.749,2.478,False
+CHEBI:88821,"2,5-Dimethyl-2,4-hexadiene",,86.883,8.790,False
+CHEBI:88822,3-Methylhexanal,19269-28-4,13.680,1.349,False
+CHEBI:88826,"Tetrahydro-2,5-dimethyl-2H-pyranmethanol",,42.286,4.331,False
+CHEBI:88827,4-Ethoxy-4-oxobutanoic acid,,-6.409,4.958,False
+CHEBI:88828,Isooctanedioldibutyrate,,45.751,4.779,False
+CHEBI:88834,xi-p-Menth-3-ene,,116.208,7.589,False
+CHEBI:88835,Trihydroxybutane,,-18.940,3.350,False
+CHEBI:88838,2-Ethyl-2-hexenal,,29.232,3.452,False
+CHEBI:88840,Isoterpinolene,,137.088,10.513,False
+CHEBI:88849,2-Methylheptane,,29.500,0.580,True
+CHEBI:88850,"3,5-Dimethylcyclohexanol",,56.801,4.746,False
+CHEBI:88852,"3,4-Dimethylcyclohexanol",,55.293,4.861,False
+CHEBI:88853,4-Methyl-3-heptene,,47.327,3.094,False
+CHEBI:88854,(E)-4-Methyl-2-heptene,,47.218,3.233,False
+CHEBI:88857,3-Methyl-3-heptene,,51.737,3.227,False
+CHEBI:88858,3-Methyleneheptane,,41.335,2.721,False
+CHEBI:88860,3-Methyl-1-heptene,,40.024,2.661,False
+CHEBI:88861,(Z)-3-Octene,,40.435,2.757,False
+CHEBI:88863,(E)-3-Octene,,44.100,0.580,True
+CHEBI:88867,Prop-2-enylcyclohexane,,73.628,4.399,False
+CHEBI:88900,1-Octen-3-one,4312-99-6,17.589,2.879,False
+CHEBI:88903,(±)-cis-Linalyl oxide,5989-33-3,106.574,9.610,False
+CHEBI:88964,Butyl 2-methylbutanoate,15706-73-7,16.411,2.757,False
+CHEBI:89053,"2,3-Octanedione",585-25-1,6.437,3.097,False
+CHEBI:89054,(E)-2-Octen-1-ol,18409-17-1,33.533,3.677,False
+CHEBI:89058,2-Ethylhexanoic acid,,12.023,2.651,False
+CHEBI:89086,2-Methylpropyl 3-methylbutanoate,589-59-3,29.575,4.054,False
+CHEBI:89186,2-Ethyl-4-methyl-1-pentanol,106-67-2,33.068,2.522,False
+CHEBI:89195,2-Methyl-4-heptanone,626-33-5,39.400,0.580,True
+CHEBI:89205,3-Hydroxyadipic acid,14292-29-6,-7.854,6.627,False
+CHEBI:89206,2-Oxohexane,591-78-6,-7.400,0.580,True
+CHEBI:89209,Ethyl isobutyl ketone,623-56-3,9.318,1.320,False
+CHEBI:89215,Ethyl isopropyl ketone,565-69-5,0.500,0.580,True
+CHEBI:89228,2-Hydroxy-3-methylpentanoic acid,488-15-3,-6.163,2.333,False
+CHEBI:89236,p-Menthan-1-ol,21129-27-1,74.897,5.565,False
+CHEBI:89267,2-Methyl-4-pentenoic acid,1575-74-2,11.481,1.886,False
+CHEBI:89283,"1,3-Diacetylpropane",,10.170,3.626,False
+CHEBI:89445,Ethyl 4-methylpentanoate,25415-67-2,16.601,2.902,False
+CHEBI:89466,1-Hydroxy-2-pentanone,,-18.352,1.954,False
+CHEBI:89474,1-Methylcyclohexanol,,32.143,2.596,False
+CHEBI:89484,4-Heptanone,123-19-3,-2.900,0.580,True
+CHEBI:89540,Methyl propenyl ketone,625-33-2,4.159,2.206,False
+CHEBI:89628,3-hydroxyvaleric acid,10237-77-1,-7.540,3.044,False
+CHEBI:89638,"1,3-Octadiene",1002-33-1,50.062,4.185,False
+CHEBI:89712,3-Octen-2-one,1669-44-9,24.146,3.236,False
+CHEBI:89718,Isopropyl butyrate,638-11-9,9.200,0.580,True
+CHEBI:89719,Propyl butyrate,105-66-8,10.700,0.580,True
+CHEBI:89723,Butyl 3-methylbutanoate,109-19-3,24.345,3.172,False
+CHEBI:89725,Propyl 3-methylbutanoate,557-00-6,15.507,2.654,False
+CHEBI:89727,4-Ethyl-o-xylene,,127.765,12.933,False
+CHEBI:89743,"2,4-Nonadienal",6750-03-4,56.523,6.128,False
+CHEBI:89744,Dihydro-5-propyl-2(3H)-furanone,57129-71-2,36.472,6.869,False
+CHEBI:89761,Butyl pentanoate,591-68-4,18.153,3.363,False
+CHEBI:89769,Propyl pentanoate,141-06-0,9.149,2.922,False
+CHEBI:89771,Ethyl pentanoate,539-82-2,-3.000,0.580,True
+CHEBI:89801,4-Hexen-3-one,2497-21-4,6.426,2.318,False
+CHEBI:89827,Isopropyl propionate,637-78-5,0.280,2.457,False
+CHEBI:89828,Propyl propionate,106-36-5,2.400,0.580,True
+CHEBI:89831,Butyl propionate,590-01-2,20.100,0.580,True
+CHEBI:89832,Methyl 3-methylbutanoate,556-24-1,-3.100,0.580,True
+CHEBI:89857,Propyl 2-methylpropanoate,644-49-5,5.556,2.385,False
+CHEBI:89862,Threo-3-Hydroxy-2-methylbutyric acid,,-3.806,3.049,False
+CHEBI:89873,Methyl propionate,554-12-1,-23.900,0.580,True
+CHEBI:89890,2-Deoxypentonic acid,,-16.055,5.986,False
+CHEBI:89891,3-Hexanone,589-38-8,-7.600,0.580,True
+CHEBI:89943,(E)-2-Penten-1-ol,1576-96-1,11.271,2.462,False
+CHEBI:89944,1-Penten-3-ol,616-25-1,8.874,1.719,False
+CHEBI:89945,1-Penten-3-one,1629-58-9,-6.291,1.502,False
+CHEBI:89949,2-Methyl-2-pentenal,623-36-9,13.718,2.396,False
+CHEBI:89984,"6-Methyl-3,5-heptadien-2-one",1604-28-0,65.532,7.990,False
+CHEBI:89985,3-Methylheptane,589-81-1,28.500,0.580,True
+CHEBI:89986,2-Methylpentanal,123-15-9,-4.300,0.580,True
+CHEBI:89993,"4-Methyl-3-penten-2-one, 9CI",141-79-7,22.178,3.169,False
+CHEBI:90005,4-Hydroxyisovaleric acid,77220-86-1,-9.936,2.371,False
+CHEBI:90012,1-Methyl-3-(2-methyl-2-propenyl)-cyclopentane,,127.138,9.004,False
+CHEBI:90013,1-Methyl-3-(2-methyl-1-propenyl)cyclopentane,,136.995,11.250,False
+CHEBI:90014,Isolimonene,,131.087,9.897,False
+CHEBI:90018,Santolina triene,,130.976,10.365,False
+CHEBI:90019,2-Menthene,,105.768,7.236,False
+CHEBI:90020,"(S)-3,7-Dimethyl-1,6-octadiene",,103.516,7.464,False
+CHEBI:90056,4-Decenal,30390-50-2,56.413,6.156,False
+CHEBI:90059,(E)-Hept-2-ene,,30.640,1.926,False
+CHEBI:90063,"(3E,5E)-2,6-Dimethyl-1,3,5,7-octatetraene",,139.006,12.628,False
+CHEBI:90064,"2,6-Dimethyl-2,4,6-octatriene",,137.738,12.485,False
+CHEBI:90075,rose oxide,16409-43-1,94.281,6.058,False
+CHEBI:90098,"(2S,4R)-rose oxide",3033-23-6,96.166,6.012,False
+CHEBI:90100,"(2R,4R)-rose oxide",5258-11-7,91.282,5.927,False
+CHEBI:90102,"(2R,4S)-rose oxide",4610-11-1,96.164,6.015,False
+CHEBI:90103,"(2S,4S)-rose oxide",5258-10-6,94.660,5.546,False
+CHEBI:124938,2-propyl-2-pentenoic acid,,26.345,3.636,False
+CHEBI:131845,"2-methylpropane-1,2-diol",558-43-0,-10.620,2.325,False
+CHEBI:132140,methane clathrate,,10.796,1.345,False

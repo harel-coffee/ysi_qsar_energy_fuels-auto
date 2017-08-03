@@ -1,0 +1,301 @@
+,SMILES,CAS,Group,Ref,Species,Type,YSI,YSI_cv_mean,YSI_cv_std,YSI_pred_mean,YSI_pred_std
+0,CCCCC,109-66-0,train,3,n-pentane,Linear Alkanes,-8.90,-4.94,1.49,-7.77,1.02
+1,CCCCCC,110-54-3,train,3,n-hexane,Linear Alkanes,0.00,3.11,1.61,0.78,1.49
+2,CCCC(C)C,107-83-5,train,3,2-methylpentane,Linear Alkanes,9.80,13.83,1.32,11.13,1.48
+3,CCC(C)CC,96-14-0,train,3,3-methylpentane,Linear Alkanes,12.20,9.63,1.60,10.58,1.24
+4,CCC(C)(C)C,75-83-2,train,3,"2,2-dimethylbutane",Linear Alkanes,20.20,16.29,1.75,17.36,1.50
+5,CCCCCCC,142-82-5,train,3,n-heptane,Linear Alkanes,8.70,10.17,1.82,8.82,1.26
+6,CCCC(C)(C)C,590-35-2,train,3,"2,2-dimethylpentane",Linear Alkanes,26.50,25.83,1.69,24.85,2.00
+7,CCC(C)C(C)C,565-59-3,train,3,"2,3-dimethylpentane",Linear Alkanes,29.60,25.46,1.36,25.65,1.81
+8,CC(C)CC(C)C,108-08-7,train,3,"2,4-dimethylpentane",Linear Alkanes,29.90,28.05,2.35,27.40,2.03
+9,CC(C)C(C)(C)C,464-06-2,train,3,"2,2,3-trimethylbutane",Linear Alkanes,38.70,35.17,2.43,35.23,2.02
+10,CCCCCCCC,111-65-9,train,3,n-octane,Linear Alkanes,18.90,18.64,2.44,17.77,1.86
+11,CCCCC(C)CC,589-81-1,train,3,3-methylheptane,Linear Alkanes,28.50,25.75,1.61,25.68,1.48
+12,CCCC(C)CCC,589-53-7,train,3,4-methylheptane,Linear Alkanes,27.50,24.36,1.62,24.53,1.70
+13,CCCCC(C)(C)C,590-73-8,train,3,"2,2-dimethylhexane",Linear Alkanes,34.80,35.15,2.01,33.29,2.10
+14,CCC(C)CC(C)C,589-43-5,train,3,"2,4-dimethylhexane",Linear Alkanes,39.90,39.39,2.64,37.35,2.70
+15,CC(C)CCC(C)C,592-13-2,train,3,"2,5-dimethylhexane",Linear Alkanes,39.90,35.80,2.57,36.09,1.90
+16,CCC(C)C(C)CC,583-48-2,train,3,"3,4-dimethylhexane",Linear Alkanes,38.50,35.13,1.54,34.82,2.04
+17,CC(C)C(C)C(C)C,565-75-3,train,3,"2,3,4-trimethylpentane",Linear Alkanes,47.30,44.30,2.49,44.04,2.49
+18,CCCCCCCCC,111-84-2,train,3,n-nonane,Linear Alkanes,30.60,28.82,1.84,28.72,2.07
+19,CCCCC(C)C(C)C,3074-71-3,train,3,"2,3-dimethylheptane",Linear Alkanes,46.30,45.33,2.16,44.19,2.55
+20,CCCCCCCCCCC,1120-21-4,train,3,n-undecane,Linear Alkanes,53.30,59.87,4.03,51.62,4.26
+21,CCCCCCCCCCCC,112-40-3,train,3,n-dodecane,Linear Alkanes,64.20,57.15,5.77,58.99,2.95
+22,CC(CC(C)(C)C)CC(C)(C)C,13475-82-6,train,3,"2,2,4,6,6-pentamethylheptane",Linear Alkanes,106.90,110.39,6.65,103.84,5.73
+23,C1CCCC1,287-92-3,train,3,cyclopentane,Cyclic Alkanes,14.00,18.76,4.32,13.78,1.62
+24,C1CCCCC1,110-82-7,train,3,cyclohexane,Cyclic Alkanes,19.10,10.60,2.83,14.51,2.47
+25,CC1CCCC1,96-37-7,train,3,methylcyclopentane,Cyclic Alkanes,30.90,42.90,5.33,34.90,3.35
+26,C1CCCCCC1,291-64-5,train,3,cycloheptane,Cyclic Alkanes,30.40,40.04,4.92,28.41,2.27
+27,CC1CCCCC1,108-87-2,train,3,methylcyclohexane,Cyclic Alkanes,36.00,32.55,2.26,31.59,2.40
+28,CCC1CCCC1,1640-89-7,train,3,ethylcyclopentane,Cyclic Alkanes,43.80,54.63,6.70,49.04,3.85
+29,C1CCCCCCC1,292-64-8,train,3,cyclooctane,Cyclic Alkanes,42.40,40.43,3.62,39.36,2.81
+30,CCC1CCCCC1,1678-91-7,train,3,ethylcyclohexane,Cyclic Alkanes,47.10,42.70,2.50,43.61,2.82
+31,CC1(C)CCCCC1,590-66-9,train,3,"1,1-dimethylcyclohexane",Cyclic Alkanes,58.20,52.29,2.68,53.43,3.54
+32,C[C@H]1CCCC[C@H]1C,2207-01-4,train,3,"cis 1,2-dimethylcyclohexane",Cyclic Alkanes,54.10,54.44,2.59,52.65,3.09
+33,CC1CCCC(C)C1,591-21-9,train,3,"1,3-dimethylcyclohexane",Cyclic Alkanes,57.70,53.70,2.74,54.30,3.32
+34,CC1CCC(C)CC1,589-90-2,train,3,"1,4-dimethylcyclohexane",Cyclic Alkanes,57.70,51.95,2.66,53.79,3.33
+35,CCCC1CCCCC1,1678-92-8,train,3,propylcyclohexane,Cyclic Alkanes,60.30,47.78,4.00,53.39,4.16
+36,CC(C)C1CCCCC1,696-29-7,train,3,isopropylcyclohexane,Cyclic Alkanes,68.80,71.41,3.10,68.66,4.63
+37,CC1CCC(C)C(C)C1,2234-75-5,train,3,"1,2,4-trimethylcyclohexane",Cyclic Alkanes,81.40,68.73,2.64,74.15,4.97
+38,C/C=C\CC,627-20-3,train,3,cis 2-pentene,Alkenes,14.70,15.43,2.65,13.53,1.61
+39,CC=C(C)C,513-35-9,train,3,2-methyl-2-butene,Alkenes,20.40,33.10,2.50,25.05,3.44
+40,C=CCCCC,592-41-6,train,3,1-hexene,Alkenes,18.70,13.39,2.17,15.25,1.70
+41,C/C=C\CCC,7688-21-3,train,3,cis 2-hexene,Alkenes,22.30,24.12,1.80,22.42,1.73
+42,C/C=C/CCC,4050-45-7,train,3,trans  2-hexene,Alkenes,23.90,23.65,1.82,22.62,1.78
+43,CC/C=C/CC,13269-52-8,train,3,trans  3-hexene,Alkenes,26.10,19.18,2.70,22.48,2.48
+44,C=CC(C)CC,760-20-3,train,3,3-methyl-1-pentene,Alkenes,22.90,23.45,1.60,22.31,1.58
+45,C=CCC(C)C,691-37-2,train,3,4-methyl-1-pentene,Alkenes,30.80,27.37,1.61,28.05,1.79
+46,CC=C(C)CC,922-61-2,train,3,3-methyl-2-pentene,Alkenes,36.20,29.62,3.16,32.38,2.79
+47,C/C=C\C(C)C,691-38-3,train,3,cis  4-methyl-2-pentene,Alkenes,36.80,35.54,2.40,35.74,2.90
+48,C=C(CC)CC,760-21-4,train,3,2-ethyl-1-butene,Alkenes,23.60,28.04,1.80,24.43,2.41
+49,CC(C)=C(C)C,563-79-1,train,3,"2,3-dimethyl-2-butene",Alkenes,49.70,42.87,5.20,47.26,3.88
+50,C=CC(C)(C)C,558-37-2,train,3,"3,3-dimethyl-1-butene",Alkenes,35.30,37.50,2.47,35.79,2.93
+51,C=CCCCCC,592-76-7,train,3,1-heptene,Alkenes,27.90,26.72,2.35,25.52,1.43
+52,C=C(C)CCCC,6094-02-6,train,3,2-methyl-1-hexene,Alkenes,29.10,35.82,2.25,31.82,2.52
+53,CC=C(CC)CC,816-79-5,train,3,3-ethyl-2-pentene,Alkenes,45.70,42.82,3.12,45.20,2.89
+54,C=CCC(C)(C)C,762-62-9,train,3,"4,4-dimethyl-1-pentene",Alkenes,48.10,41.72,1.97,43.80,2.82
+55,C=C(C)C(C)(C)C,594-56-9,train,3,"2,3,3-trimethyl-1-butene",Alkenes,65.90,51.57,3.98,58.58,3.91
+56,C=CCCCCCC,111-66-0,train,3,1-octene,Alkenes,39.80,31.40,2.12,34.36,2.07
+57,C/C=C/CCCCC,13389-42-9,train,3,trans  2-octene,Alkenes,40.80,44.80,2.19,42.31,2.50
+58,CC/C=C/CCCC,14919-01-8,train,3,trans  3-octene,Alkenes,44.10,38.35,1.70,39.95,2.51
+59,CCCCC=C(C)C,627-97-4,train,3,2-methyl-2-heptene,Alkenes,53.00,47.49,2.98,50.18,3.49
+60,CC(C)=C(C)C(C)C,565-77-5,train,3,"2,3,4-trimethyl-2-pentene",Alkenes,87.90,71.87,4.32,79.71,5.64
+61,C=C(C)CC(C)(C)C,107-39-1,train,3,"2,4,4-trimethyl-1-pentene",Alkenes,59.20,74.06,3.56,67.73,5.65
+62,CC(C)=CC(C)(C)C,107-40-4,train,3,"2,4,4-trimethyl-2-pentene",Alkenes,91.40,64.03,4.10,78.15,8.11
+63,C=CCCCCCCC,124-11-8,train,3,1-nonene,Alkenes,52.80,44.91,3.10,49.25,2.72
+64,C=CCCCCCCCC,872-05-9,train,3,1-decene,Alkenes,69.00,55.40,3.22,63.87,3.97
+65,C=CCCCCCCCCCC,112-41-4,train,3,1-dodecene,Alkenes,93.00,80.34,5.14,86.38,7.59
+66,C1=CCCC1,142-29-0,train,3,cyclopentene,Cyclic Alkenes,61.80,40.77,6.73,54.17,8.29
+67,C1=CCCCC1,110-83-8,train,3,cyclohexene,Cyclic Alkenes,23.70,48.82,4.65,33.20,6.21
+68,CC1=CCCC1,693-89-0,train,3,1-methylcyclopentene,Cyclic Alkenes,102.70,63.67,5.68,78.53,10.61
+69,C1=CCCCCC1,628-92-2,train,3,cycloheptene,Cyclic Alkenes,71.60,46.24,4.41,60.72,7.89
+70,C#CCCC,627-19-0,train,3,1-pentyne,Alkynes and Alkadienes,26.20,14.26,2.63,23.63,3.77
+71,CC#CCC,627-21-4,train,3,2-pentyne,Alkynes and Alkadienes,37.70,31.63,3.92,36.51,2.25
+72,C=CCCC(=C)C,4049-81-4,train,3,"2-methyl-1,5-hexadiene",Alkynes and Alkadienes,58.00,46.90,2.10,53.09,3.87
+73,CO,67-56-1,train,3,methanol,Saturated Alcohols,-36.90,-37.63,4.54,-36.78,2.55
+74,CCO,64-17-5,train,3,ethanol,Saturated Alcohols,-31.10,-25.07,2.42,-29.30,1.76
+75,CCCO,71-23-8,train,3,1-propanol,Saturated Alcohols,-22.00,-17.15,1.25,-19.59,1.24
+76,CC(C)O,67-63-0,train,3,2-propanol,Saturated Alcohols,-17.30,-12.72,1.56,-15.67,1.50
+77,CCCCO,71-36-3,train,3,1-butanol,Saturated Alcohols,-13.00,-11.20,0.99,-12.44,1.19
+78,CCC(C)O,78-92-2,train,3,2-butanol,Saturated Alcohols,-8.60,-7.89,0.91,-8.70,1.03
+79,CC[C@H](C)O,14898-79-4,train,3,(R)-2-butanol,Saturated Alcohols,-8.10,-9.44,0.92,-9.37,1.11
+80,CC[C@@H](C)O,4221-99-2,train,3,(S)-2-butanol,Saturated Alcohols,-7.80,-6.73,1.17,-7.40,1.01
+81,CC(C)CO,78-83-1,train,3,2-methyl-1-propanol,Saturated Alcohols,-6.50,-7.28,1.05,-6.87,1.12
+82,CC(C)(C)O,75-65-0,train,3,tert-butanol,Saturated Alcohols,-4.50,-3.25,2.13,-4.34,1.03
+83,CCCCCO,71-41-0,train,3,1-pentanol,Saturated Alcohols,-7.70,-6.15,1.65,-7.52,1.12
+84,CCC(O)CC,584-02-1,train,3,3-pentanol,Saturated Alcohols,-2.00,-3.54,1.46,-2.39,1.09
+85,CCC(C)(C)O,75-85-4,train,3,2-methyl-2-butanol,Saturated Alcohols,3.90,4.05,1.35,3.61,0.93
+86,CC(C)CCO,123-51-3,train,3,3-methyl-1-butanol,Saturated Alcohols,2.40,3.72,1.09,2.98,1.04
+87,CCCCCCO,111-27-3,train,3,1-hexanol,Saturated Alcohols,-0.60,2.05,1.82,-0.35,1.73
+88,CCCCC(C)O,626-93-7,train,3,2-hexanol,Saturated Alcohols,5.80,6.83,1.06,6.10,1.18
+89,CCCC(O)CC,623-37-0,train,3,3-hexanol,Saturated Alcohols,5.50,2.72,1.74,4.73,1.03
+90,CCCC(C)CO,105-30-6,train,3,2-methyl-1-pentanol,Saturated Alcohols,8.40,6.63,1.43,7.17,1.17
+91,CCC(C)CCO,589-35-5,train,3,3-methyl-1-pentanol,Saturated Alcohols,9.20,9.81,1.14,9.26,0.98
+92,CCC(C)C(C)O,565-60-6,train,3,3-methyl-2-pentanol,Saturated Alcohols,11.40,13.00,1.15,11.48,1.11
+93,CC(C)CCCO,626-89-1,train,3,4-methyl-1-pentanol,Saturated Alcohols,8.10,8.71,1.61,7.67,1.05
+94,CC(C)CC(C)O,108-11-2,train,3,4-methyl-2-pentanol,Saturated Alcohols,18.10,13.99,1.20,15.24,1.42
+95,CCC(CC)CO,97-95-0,train,3,2-ethyl-1-butanol,Saturated Alcohols,17.60,9.21,1.19,12.20,1.67
+96,CC(C)C(C)(C)O,594-60-5,train,3,"2,3-dimethyl-2-butanol",Saturated Alcohols,15.90,16.82,1.46,15.21,1.10
+97,CC(C)(C)CCO,624-95-3,train,3,"3,3-dimethyl-1-butanol",Saturated Alcohols,16.30,16.79,1.65,15.16,1.19
+98,CC(O)C(C)(C)C,464-07-3,train,3,"3,3-dimethyl-2-butanol",Saturated Alcohols,15.50,15.64,1.32,14.65,1.38
+99,OC1CCCCC1,108-93-0,train,3,cyclohexanol,Saturated Alcohols,18.50,18.83,2.70,17.50,1.62
+100,CCCCCCCO,111-70-6,train,3,1-heptanol,Saturated Alcohols,6.70,13.34,1.67,8.29,1.52
+101,CCCCC(O)CC,589-82-2,train,3,3-heptanol,Saturated Alcohols,12.60,11.11,1.60,11.36,1.24
+102,CCCC(O)CCC,589-55-9,train,3,4-heptanol,Saturated Alcohols,12.60,12.65,1.47,11.72,1.17
+103,CCCCC(C)(C)O,625-23-0,train,3,2-methyl-2-hexanol,Saturated Alcohols,17.80,13.53,1.13,14.78,1.30
+104,CCC(O)(CC)CC,597-49-9,train,3,3-ethyl-3-pentanol,Saturated Alcohols,15.70,15.35,1.93,14.59,1.37
+105,CCC(O)C(C)(C)C,3970-62-5,train,3,"2,2-dimethyl-3-pentanol",Saturated Alcohols,24.20,20.14,1.54,20.89,1.82
+106,CC(C)C(O)C(C)C,600-36-2,train,3,"2,4-dimethyl-3-pentanol",Saturated Alcohols,17.90,26.42,2.14,21.99,1.92
+107,CCCCCCCCO,111-87-5,train,3,1-octanol,Saturated Alcohols,16.70,15.43,2.32,15.39,1.83
+108,CCCCCCC(C)O,123-96-6,train,3,2-octanol,Saturated Alcohols,24.40,15.18,2.64,20.64,3.11
+109,CCCCCC(O)CC,589-98-0,train,3,3-octanol,Saturated Alcohols,20.60,18.79,1.69,18.68,1.97
+110,CCCCC(O)CCC,589-62-8,train,3,4-octanol,Saturated Alcohols,20.80,22.21,1.82,20.74,1.88
+111,CCCCC(CC)CO,104-76-7,train,3,2-ethyl-1-hexanol,Saturated Alcohols,31.10,18.75,1.64,24.29,3.93
+112,CCCC(CO)CCC,58175-57-8,train,3,2-propyl-1-pentanol,Saturated Alcohols,31.20,24.57,1.78,27.67,1.96
+113,CCCOC,557-17-5,train,3,methyl  propyl  ether,Saturated Ethers,-19.20,-17.48,1.49,-18.31,1.14
+114,CCOCC,60-29-7,train,3,diethyl  ether,Saturated Ethers,-21.10,-19.03,1.75,-20.21,1.28
+115,CCC(C)OC,6795-87-5,train,3,methyl  sec-butyl  ether,Saturated Ethers,-2.80,-6.88,1.28,-3.85,1.34
+116,COC(C)(C)C,1634-04-4,train,3,methyl  tert-butyl  ether,Saturated Ethers,1.70,3.05,1.75,1.89,1.21
+117,CCCOCCC,111-43-3,train,3,dipropyl  ether,Saturated Ethers,-3.70,-3.93,1.69,-3.83,1.07
+118,CC(C)OC(C)C,108-20-3,train,3,diisopropyl  ether,Saturated Ethers,12.90,13.53,1.76,12.69,1.47
+119,CCOC(C)(C)C,637-92-3,train,3,tert-butyl  ethyl  ether,Saturated Ethers,11.70,8.48,1.57,9.86,1.66
+120,COC1CCCC1,5614-37-9,train,3,methyl  cyclopentyl  ether,Saturated Ethers,49.60,20.15,2.44,37.69,6.47
+121,CCCCOCCCC,142-96-1,train,3,dibutyl  ether,Saturated Ethers,12.90,13.91,1.93,12.57,1.86
+122,CCC(C)OC(C)CC,6863-58-7,train,3,sec-butyl  ether,Saturated Ethers,36.60,21.83,2.25,30.05,4.12
+123,CC(C)CCOCCC(C)C,544-01-4,train,3,isoamyl  ether,Saturated Ethers,51.60,43.36,4.40,48.47,3.30
+124,CCC(C)=O,78-93-3,train,3,2-butanone,Saturated Alkanones,-20.50,-17.65,1.41,-18.92,1.30
+125,CCCC(C)=O,107-87-9,train,3,2-pentanone,Saturated Alkanones,-14.40,-12.05,1.30,-12.97,1.28
+126,CCC(=O)CC,96-22-0,train,3,3-pentanone,Saturated Alkanones,-14.40,-14.41,1.07,-14.48,1.23
+127,CC(=O)C(C)C,563-80-4,train,3,3-methyl-2-butanone,Saturated Alkanones,-5.90,-6.40,1.50,-6.00,1.04
+128,CCCCC(C)=O,591-78-6,train,3,2-hexanone,Saturated Alkanones,-7.40,-3.92,1.63,-6.59,1.31
+129,CCCC(=O)CC,589-38-8,train,3,3-hexanone,Saturated Alkanones,-7.60,-6.67,1.36,-7.35,1.12
+130,CCC(=O)C(C)C,565-69-5,train,3,2-methyl-3-pentanone,Saturated Alkanones,0.50,-0.71,1.26,-0.54,1.49
+131,CCC(C)C(C)=O,565-61-7,train,3,3-methyl-2-pentanone,Saturated Alkanones,-2.10,0.89,1.80,-1.08,1.67
+132,CC(=O)CC(C)C,108-10-1,train,3,4-methyl-2-pentanone,Saturated Alkanones,3.70,2.07,1.61,3.07,1.44
+133,CCCCCC(C)=O,110-43-0,train,3,2-heptanone,Saturated Alkanones,0.00,5.07,2.01,2.11,2.33
+134,CCCCC(=O)CC,106-35-4,train,3,3-heptanone,Saturated Alkanones,0.50,3.16,2.19,1.06,1.67
+135,CCCC(=O)CCC,123-19-3,train,3,4-heptanone,Saturated Alkanones,-2.90,1.46,2.28,-2.29,1.89
+136,CCCC(=O)C(C)C,7379-12-6,train,3,2-methyl-3-hexanone,Saturated Alkanones,8.50,5.13,1.68,7.25,1.28
+137,CC(C)C(=O)C(C)C,565-80-0,train,3,"2,4-dimethyl-3-pentanone",Saturated Alkanones,18.90,11.99,1.79,15.34,2.03
+138,CC(=O)CC(C)(C)C,590-50-1,train,3,"4,4-dimethyl-2-pentanone",Saturated Alkanones,19.20,19.27,2.40,17.96,1.92
+139,CCCCCCC(C)=O,111-13-7,train,3,2-octanone,Saturated Alkanones,11.70,12.71,2.00,11.82,1.75
+140,CCCCCC(=O)CC,106-68-3,train,3,3-octanone,Saturated Alkanones,8.80,11.33,2.06,9.69,2.02
+141,CCC(=O)CC(C)CC,541-85-5,train,3,5-methyl-3-heptanone,Saturated Alkanones,20.30,16.47,2.20,18.57,1.91
+142,CCCCCCC(=O)CC,925-78-0,train,3,3-nonanone,Saturated Alkanones,19.60,15.29,3.28,16.78,2.56
+143,CCCCC(=O)CCCC,502-56-7,train,3,5-nonanone,Saturated Alkanones,17.70,22.70,2.40,17.53,2.70
+144,CC(C)CC(=O)CC(C)C,108-83-8,train,3,"2,6-dimethyl-4-heptanone",Saturated Alkanones,39.40,28.50,3.20,34.23,3.41
+145,CC(C)(C)C(=O)C(C)(C)C,815-24-7,train,3,"2,2,4,4-tetramethyl-3-pentanone",Saturated Alkanones,55.00,45.87,3.68,50.30,3.35
+146,CCCCCCCCC(C)=O,693-54-9,train,3,2-decanone,Saturated Alkanones,33.40,28.44,3.53,30.32,2.74
+147,CCCCCCCC(=O)CC,928-80-3,train,3,3-decanone,Saturated Alkanones,30.70,25.48,2.44,27.77,3.61
+148,CCC=O,123-38-6,train,3,propanal  (propionaldehyde),Saturated Aldehydes,-25.50,-25.64,2.16,-25.98,1.24
+149,CC(C)C=O,78-84-2,train,3,isobutanal,Saturated Aldehydes,-14.30,-12.54,1.70,-13.90,0.92
+150,CCCCC=O,110-62-3,train,3,pentanal,Saturated Aldehydes,-14.40,-8.46,1.07,-12.55,1.57
+151,CCC(C)C=O,96-17-3,train,3,2-methylbutanal,Saturated Aldehydes,-11.90,-7.02,1.59,-10.19,1.10
+152,CC(C)CC=O,590-86-3,train,3,3-methylbutanal,Saturated Aldehydes,-3.80,-8.40,1.39,-6.25,1.10
+153,CC(C)(C)C=O,630-19-3,train,3,"2,2-dimethylpropanal",Saturated Aldehydes,0.40,1.46,2.04,0.54,1.07
+154,CCCCCC=O,66-25-1,train,3,hexanal,Saturated Aldehydes,-5.70,-1.82,2.41,-4.77,1.69
+155,CCCC(C)C=O,123-15-9,train,3,2-methylpentanal,Saturated Aldehydes,-4.30,-0.34,2.22,-3.57,1.99
+156,CC(C)(C)CC=O,2987-16-8,train,3,"3,3-dimethylbutanal",Saturated Aldehydes,12.40,5.67,1.62,8.83,1.82
+157,CCCCCCC=O,111-71-7,train,3,heptanal,Saturated Aldehydes,5.30,7.93,2.75,5.57,1.63
+158,CCCCCCCCC=O,124-19-6,train,3,nonanal,Saturated Aldehydes,20.70,16.64,2.67,18.70,2.08
+159,CC(CC=O)CC(C)(C)C,5435-64-3,train,3,"3,5,5-trimethylhexanal",Saturated Aldehydes,49.50,49.66,3.57,46.94,2.43
+160,CCCCCCCCCC=O,112-31-2,train,3,decanal,Saturated Aldehydes,34.80,27.51,2.58,31.13,2.41
+161,CCCCC(C=O)CCCC,18459-51-3,train,3,2-butylhexanal,Saturated Aldehydes,27.60,35.97,3.27,28.82,3.81
+162,C1COCO1,646-06-0,train,3,"1,3-dioxolane",Cyclic Saturated Ethers,-31.10,-31.25,2.40,-31.50,1.95
+163,C1CCOC1,109-99-9,train,3,tetrahydrofuran,Cyclic Saturated Ethers,-15.70,-9.32,4.00,-15.12,2.01
+164,CCC1CO1,106-88-7,train,3,"1,2-epoxybutane",Cyclic Saturated Ethers,-17.90,-5.97,2.80,-17.26,1.23
+165,COC1CCCCO1,6581-66-4,train,3,2-methoxytetrahydropyran,Cyclic Saturated Ethers,-12.90,2.18,4.67,-11.49,2.89
+166,CCOC=O,109-94-4,train,3,ethyl  formate,Saturated Esters and Carboxylic Acids,-32.90,-26.56,1.77,-30.47,1.90
+167,COC(C)=O,79-20-9,train,3,methyl  acetate,Saturated Esters and Carboxylic Acids,-29.00,-30.42,2.52,-29.61,1.75
+168,CCCOC=O,110-74-7,train,3,propyl  formate,Saturated Esters and Carboxylic Acids,-15.70,-14.38,1.82,-15.14,1.17
+169,CC(C)OC=O,625-55-8,train,3,isopropyl  formate,Saturated Esters and Carboxylic Acids,-15.60,-12.66,1.57,-14.29,1.33
+170,CCC(=O)OC,554-12-1,train,3,methyl  propionate,Saturated Esters and Carboxylic Acids,-23.90,-21.34,1.60,-23.01,1.63
+171,CCCC(=O)O,107-92-6,train,3,butyric  acid,Saturated Esters and Carboxylic Acids,-19.00,-16.72,2.69,-18.27,1.52
+172,CCCCOC=O,592-84-7,train,3,butyl  formate,Saturated Esters and Carboxylic Acids,1.00,-7.21,1.38,-2.99,2.39
+173,CC(C)COC=O,542-55-2,train,3,isobutyl  formate,Saturated Esters and Carboxylic Acids,0.00,2.18,1.70,1.09,1.55
+174,CC(C)(C)OC=O,762-75-4,train,3,tert-butyl  formate,Saturated Esters and Carboxylic Acids,-0.60,-2.42,2.23,-1.05,1.10
+175,CCCOC(C)=O,109-60-4,train,3,propyl  acetate,Saturated Esters and Carboxylic Acids,-9.30,-11.65,1.54,-10.97,1.47
+176,CC(=O)OC(C)C,108-21-4,train,3,isopropyl  acetate,Saturated Esters and Carboxylic Acids,-10.40,-6.04,1.65,-8.44,1.77
+177,CCCC(=O)OC,623-42-7,train,3,methyl  butyrate,Saturated Esters and Carboxylic Acids,-18.20,-16.50,2.00,-17.21,1.37
+178,CCCCCOC=O,638-49-3,train,3,pentyl  formate,Saturated Esters and Carboxylic Acids,8.30,-1.03,1.87,4.85,2.60
+179,CC(C)CCOC=O,110-45-2,train,3,isopentyl  formate,Saturated Esters and Carboxylic Acids,12.10,5.77,1.51,10.88,1.13
+180,CCC(C)OC(C)=O,105-46-4,train,3,sec-butyl  acetate,Saturated Esters and Carboxylic Acids,7.00,-1.30,2.23,3.40,2.27
+181,CC(=O)OC(C)(C)C,540-88-5,train,3,tert-butyl  acetate,Saturated Esters and Carboxylic Acids,3.60,9.01,1.70,5.04,1.95
+182,CCCOC(=O)CC,106-36-5,train,3,propyl  propionate,Saturated Esters and Carboxylic Acids,2.40,-7.64,1.85,-5.54,2.70
+183,CCOC(=O)C(C)C,97-62-1,train,3,ethyl  isobutyrate,Saturated Esters and Carboxylic Acids,-6.60,-3.83,1.98,-5.28,1.78
+184,CCCCC(=O)OC,624-24-8,train,3,methyl  pentanoate,Saturated Esters and Carboxylic Acids,-12.60,-4.47,1.64,-8.67,2.38
+185,CCC(C)C(=O)OC,868-57-5,train,3,methyl  2-methylbutyrate,Saturated Esters and Carboxylic Acids,-8.50,-4.47,1.54,-6.90,1.59
+186,COC(=O)C(C)(C)C,598-98-1,train,3,methyl  trimethylacetate,Saturated Esters and Carboxylic Acids,0.70,3.51,1.63,1.22,1.84
+187,CCC(CC)C(=O)O,88-09-5,train,3,2-ethylbutyric  acid,Saturated Esters and Carboxylic Acids,-7.00,-4.84,2.68,-6.91,1.12
+188,CCC(C)(C)C(=O)O,595-37-9,train,3,"2,2-dimethylbutyric  acid",Saturated Esters and Carboxylic Acids,-0.60,4.14,2.45,-0.12,1.68
+189,CCCCCOC(C)=O,628-63-7,train,3,pentyl  acetate,Saturated Esters and Carboxylic Acids,15.60,1.98,1.84,6.43,2.77
+190,CC(=O)OCCC(C)C,123-92-2,train,3,isopentyl  acetate,Saturated Esters and Carboxylic Acids,20.60,10.00,1.70,15.00,2.37
+191,CCC(=O)OCC(C)C,540-42-1,train,3,isobutyl  propionate,Saturated Esters and Carboxylic Acids,16.70,9.62,2.18,14.58,2.44
+192,CCCC(=O)OC(C)C,638-11-9,train,3,isopropyl  butyrate,Saturated Esters and Carboxylic Acids,9.20,7.77,2.12,8.91,1.49
+193,CCCCC(=O)OCC,539-82-2,train,3,ethyl  pentanoate,Saturated Esters and Carboxylic Acids,-3.00,1.69,2.67,-1.37,2.83
+194,CCOC(=O)CC(C)C,108-64-5,train,3,ethyl  isopentanoate,Saturated Esters and Carboxylic Acids,9.70,6.19,1.78,8.26,1.87
+195,CCOC(=O)C(C)CC,7452-79-1,train,3,ethyl  2-methylbutyrate,Saturated Esters and Carboxylic Acids,-1.60,4.36,2.42,-0.03,2.96
+196,CCCCCC(=O)OC,106-70-7,train,3,methyl  hexanoate,Saturated Esters and Carboxylic Acids,-5.70,3.30,2.22,-3.84,2.43
+197,CCCCCCC(=O)OC,106-73-0,train,3,methyl  heptanoate,Saturated Esters and Carboxylic Acids,3.30,13.11,2.16,5.17,3.69
+198,CCCCCCCC(=O)OC,111-11-5,train,3,methyl  octanoate,Saturated Esters and Carboxylic Acids,13.30,18.22,2.14,13.32,2.86
+199,C=CC(=O)OC,96-33-3,train,4,methyl-2-propenoate,Unsaturated Esters,-17.00,-15.20,2.46,-16.77,1.39
+200,CC/C=C/C(=O)OC,15790-88-2,train,4,methyl-2-pentenoate,Unsaturated Esters,5.00,5.54,2.26,4.58,1.39
+201,C=CCCC(=O)OC,818-57-5,train,4,methyl-4-pentenoate,Unsaturated Esters,4.50,-2.64,2.58,3.05,1.98
+202,C/C=C(/C)C(=O)OC,6622-76-0,train,4,methyl-2-methyl-2-butenoate,Unsaturated Esters,11.80,4.24,1.58,8.74,2.26
+203,COC(=O)C=C(C)C,924-50-5,train,4,methyl-3-methyl-2-butenoate,Unsaturated Esters,9.40,11.53,3.37,9.08,2.00
+204,C/C=C/C(=O)OCC,623-70-1,train,4,ethyl-2-butenoate,Unsaturated Esters,-0.10,2.54,2.21,0.18,1.86
+205,C=CC(=O)OCCC,925-60-0,train,4,propyl-2-propenoate,Unsaturated Esters,-0.60,1.98,2.64,0.29,1.68
+206,CCC/C=C/C(=O)OC,13894-63-8,train,4,methyl-2-hexenoate,Unsaturated Esters,8.60,14.20,1.67,10.15,2.40
+207,CCC=CCC(=O)OC,2396-78-3,train,4,methyl-3-hexenoate,Unsaturated Esters,23.10,13.99,2.91,19.86,2.77
+208,C=CCCCC(=O)OC,2396-80-7,train,4,methyl-5-hexenoate,Unsaturated Esters,13.70,9.61,2.59,12.46,1.66
+209,CC/C=C(\C)C(=O)O,1567-14-2,train,4,methyl-2-methyl-2-pentenoate,Unsaturated Esters,18.00,9.56,1.78,15.34,2.08
+210,C/C=C(\C)C(=O)OCC,5837-78-5,train,4,ethyl-2-methyl-2-butenoate,Unsaturated Esters,5.60,11.60,1.57,7.59,3.12
+211,CCOC(=O)C=C(C)C,638-10-8,train,4,ethyl-3-methyl-2-butenoate,Unsaturated Esters,14.20,19.83,2.17,15.91,3.12
+212,C=C(C)C(=O)OCCC,2210-28-8,train,4,propyl-2-methyl-2-propenoate,Unsaturated Esters,10.50,8.04,2.49,8.84,2.13
+213,OCCO,107-21-1,train,3,"1,2-ethanediol  (ethylene  glycol)",Other Multi-Oxygen Compounds,-34.40,-35.38,2.18,-35.53,2.71
+214,COCOC,109-87-5,train,3,dimethoxymethane,Other Multi-Oxygen Compounds,-30.30,-26.37,2.45,-28.97,2.08
+215,COC(C)OC,534-15-6,train,3,"1,1-dimethoxyethane",Other Multi-Oxygen Compounds,-25.10,-24.80,1.76,-25.25,1.72
+216,COCC(C)O,107-98-2,train,3,1-methoxy-2-propanol,Other Multi-Oxygen Compounds,-21.70,-18.57,1.51,-20.57,1.51
+217,COCCCO,1589-49-7,train,3,3-methoxy-1-propanol,Other Multi-Oxygen Compounds,-19.30,-19.05,1.56,-19.49,1.69
+218,CCOCCO,110-80-5,train,3,2-ethoxyethanol,Other Multi-Oxygen Compounds,-22.80,-26.39,2.49,-24.01,1.93
+219,COC(OC)OC,149-73-5,train,3,trimethoxymethane,Other Multi-Oxygen Compounds,-27.20,-25.20,2.25,-25.96,1.50
+220,COC(=O)[C@H](C)O,27871-49-4,train,3,2-hydroxy-methylpropionate,Other Multi-Oxygen Compounds,-32.30,-24.69,2.46,-30.46,2.30
+221,COC(C)(C)OC,77-76-9,train,3,"2,2-dimethoxypropane",Other Multi-Oxygen Compounds,-21.70,-11.93,2.03,-19.44,2.73
+222,CCC(O)COC,53778-73-7,train,3,1-methoxy-2-butanol,Other Multi-Oxygen Compounds,-16.40,-12.76,1.33,-15.22,1.33
+223,CCOCOCC,462-95-3,train,3,diethoxymethane,Other Multi-Oxygen Compounds,-18.40,-15.81,2.01,-17.35,1.27
+224,COC(C)(OC)OC,1445-45-0,train,3,"1,1,1-trimethoxyethane",Other Multi-Oxygen Compounds,-27.50,-17.71,2.22,-24.89,3.78
+225,CCOC(=O)OCC,105-58-8,train,3,diethyl  carbonate,Other Multi-Oxygen Compounds,-23.40,-15.85,2.47,-21.48,2.05
+226,COC(OC)C(C)=O,6342-56-9,train,3,"1,1-dimethoxy-2-propanone",Other Multi-Oxygen Compounds,-24.20,-28.52,2.56,-26.40,3.82
+227,COC(OC)(OC)OC,1850-14-2,train,3,tetramethoxymethane,Other Multi-Oxygen Compounds,-24.10,-28.65,2.01,-24.98,2.67
+228,CCCCOCCO,111-76-2,train,3,2-butoxyethanol,Other Multi-Oxygen Compounds,-7.80,-10.89,1.86,-8.64,2.13
+229,COCCOCCOC,111-96-6,train,3,diglyme,Other Multi-Oxygen Compounds,-22.10,-14.34,2.97,-20.59,2.30
+230,CCOC(C)OCC,105-57-7,train,3,"1,1-diethoxyethane",Other Multi-Oxygen Compounds,-12.30,-11.38,1.79,-12.18,1.36
+231,COC(C)(C)CCO,56539-66-3,train,3,3-methoxy-3-methyl-1-butanol,Other Multi-Oxygen Compounds,4.40,5.18,2.70,4.24,1.49
+232,CCCOCC(C)O,1569-01-3,train,3,1-propoxy-2-propanol,Other Multi-Oxygen Compounds,-7.10,-1.01,2.19,-5.84,1.89
+233,CCOCCOCC,629-14-1,train,3,"1,2-diethoxyethane",Other Multi-Oxygen Compounds,-15.50,-13.71,1.85,-14.54,1.83
+234,CCCCOCC(C)O,5131-66-8,train,3,1-butoxy-2-propanol,Other Multi-Oxygen Compounds,2.00,5.74,3.01,3.02,2.62
+235,CC(O)COC(C)(C)C,57018-52-7,train,3,1-tert-butoxy-2-propanol,Other Multi-Oxygen Compounds,21.10,15.23,2.59,19.14,1.99
+236,CCOC(CC)OCC,4744-08-5,train,3,"1,1-diethoxypropane",Other Multi-Oxygen Compounds,-4.70,-1.74,2.70,-4.57,1.62
+237,CCCOC(=O)OCCC,623-96-1,train,3,dipropyl  carbonate,Other Multi-Oxygen Compounds,6.40,-2.34,2.78,4.23,4.13
+238,CCCC(C)(C)O,590-36-3,test,3,2-methyl-2-pentanol,Saturated Alcohols,9.40,,,9.63,1.11
+239,CC(C)=O,67-64-1,test,3,2-propanone  (acetone),Saturated Alkanones,-26.90,,,-22.57,2.02
+240,CCC(C)(C)CC,562-49-2,test,3,"3,3-dimethylpentane",Linear Alkanes,26.90,,,23.52,2.07
+241,COC(=O)C(C)C,547-63-7,test,3,methyl  isobutyrate,Saturated Esters and Carboxylic Acids,-12.70,,,-11.48,1.40
+242,CCCCOC,628-28-4,test,3,methyl  butyl  ether,Saturated Ethers,-11.40,,,-10.79,1.14
+243,C=C(C)CCCCC,15870-10-7,test,3,2-methyl-1-heptene,Alkenes,40.70,,,43.26,2.85
+244,CC(C)C(=O)O,79-31-2,test,3,isobutyric  acid,Saturated Esters and Carboxylic Acids,-17.90,,,-15.03,1.82
+245,CCCCCCCC(C)=O,821-55-6,test,3,2-nonanone,Saturated Alkanones,22.90,,,22.86,2.62
+246,CCC(C=O)CC,97-96-1,test,3,2-ethylbutanal,Saturated Aldehydes,-2.10,,,1.26,1.76
+247,CCOC(=O)CC,105-37-3,test,3,ethyl  propionate,Saturated Esters and Carboxylic Acids,-15.60,,,-16.63,1.34
+248,CCC/C=C/CCC,14850-23-8,test,3,trans  4-octene,Alkenes,45.60,,,40.18,2.85
+249,CCCCCC(C)C,592-27-8,test,3,2-methylheptane,Linear Alkanes,29.50,,,27.28,1.97
+250,COC(=O)OC,616-38-6,test,3,dimethyl  carbonate,Other Multi-Oxygen Compounds,-30.80,,,-31.01,2.22
+251,CC(C)C(C)O,598-75-4,test,3,3-methyl-2-butanol,Saturated Alcohols,4.50,,,5.81,1.03
+252,CC(C)CC(C)(C)C,540-84-1,test,3,"2,2,4-trimethylpentane",Linear Alkanes,48.60,,,45.54,3.39
+253,CCCC(=O)OCC,105-54-4,test,3,ethyl  butyrate,Saturated Esters and Carboxylic Acids,-7.60,,,-11.86,1.57
+254,CC(O)CO,57-55-6,test,3,"1,2-propanediol",Other Multi-Oxygen Compounds,-25.90,,,-22.68,2.79
+255,C/C=C/CC(=O)OC,818-58-6,test,4,methyl-3-pentenoate,Unsaturated Esters,13.10,,,10.33,2.06
+256,C=CC(=O)OCC,140-88-5,test,4,ethyl-2-propenoate,Unsaturated Esters,-13.00,,,-12.29,1.57
+257,CC(CO)CC(C)(C)C,16325-63-6,test,3,"2,4,4-trimethyl-1-pentanol",Saturated Alcohols,44.40,,,38.95,2.84
+258,CC/C=C/CCC,14686-14-7,test,3,trans  3-heptene,Alkenes,35.90,,,33.01,1.85
+259,CC(C)CCC(C)O,627-59-8,test,3,5-methyl-2-hexanol,Saturated Alcohols,22.30,,,21.54,2.00
+260,CCCOC(=O)CCC,105-66-8,test,3,propyl  butyrate,Saturated Esters and Carboxylic Acids,10.70,,,-4.14,2.86
+261,C1CCOCC1,142-68-7,test,3,tetrahydropyran,Cyclic Saturated Ethers,-6.00,,,-12.51,1.76
+262,C#CCCCCCC,629-05-0,test,3,1-octyne,Alkynes and Alkadienes,67.80,,,48.62,3.78
+263,C=C(C)CCC,763-29-1,test,3,2-methyl-1-pentene,Alkenes,19.40,,,26.20,2.48
+264,c1ccccc1,71-43-2,test,3,benzene,Aromatic,100.00,,,55.60,13.70
+265,C/C=C/C(=O)OC,623-43-8,test,4,methyl-2-butenoate,Unsaturated Esters,-4.70,,,-7.40,1.68
+266,CC(C)OCCO,109-59-1,test,3,2-isopropoxyethanol,Other Multi-Oxygen Compounds,-7.50,,,-12.40,1.64
+267,C/C=C\CCCC,6443-92-1,test,3,cis  2-heptene,Alkenes,31.70,,,31.09,2.02
+268,CCCC(C)CC,589-34-4,test,3,3-methylhexane,Linear Alkanes,19.60,,,16.60,1.39
+269,CCC(C)(C)OC,994-05-8,test,3,methyl  tert-amyl  ether,Saturated Ethers,12.00,,,4.99,1.51
+270,C=CCCC(=O)OCC,1968-40-7,test,4,ethyl-4-pentenoate,Unsaturated Esters,16.80,,,11.44,1.91
+271,CC(=O)C(C)(C)C,75-97-8,test,3,"3,3-dimethyl-2-butanone",Saturated Alkanones,15.80,,,9.55,1.62
+272,CCCCOC(C)=O,123-86-4,test,3,butyl  acetate,Saturated Esters and Carboxylic Acids,8.80,,,-2.43,2.40
+273,CCCC=O,123-72-8,test,3,butanal,Saturated Aldehydes,-19.90,,,-20.64,1.31
+274,CC(C)C(C)C,79-29-8,test,3,"2,3-dimethylbutane",Linear Alkanes,21.10,,,17.94,1.51
+275,CCCCOC(=O)CC,590-01-2,test,3,butyl  propionate,Saturated Esters and Carboxylic Acids,20.10,,,1.73,2.93
+276,CCCCCC(C)O,543-49-7,test,3,2-heptanol,Saturated Alcohols,14.00,,,12.51,1.62
+277,CCOC(C)=O,141-78-6,test,3,ethyl  acetate,Saturated Esters and Carboxylic Acids,-26.40,,,-23.69,1.82
+278,C=C(C)C(=O)OCC,97-63-2,test,4,ethyl-2-methyl-2-propenoate,Unsaturated Esters,-7.70,,,-1.31,2.02
+279,CCCCCCCC=O,124-13-0,test,3,octanal,Saturated Aldehydes,11.10,,,10.24,1.92
+280,COCCOC,110-71-4,test,3,"1,2-dimethoxyethane",Other Multi-Oxygen Compounds,-28.80,,,-30.35,2.07
+281,CCCCC(C=O)CC,123-05-7,test,3,2-ethylhexanal,Saturated Aldehydes,9.60,,,14.59,2.64
+282,CCCCC(C)C,591-76-4,test,3,2-methylhexane,Linear Alkanes,18.60,,,16.20,1.67
+283,CCCCC1CCCCC1,1678-93-9,test,3,butylcyclohexane,Cyclic Alkanes,72.00,,,61.89,4.27
+284,CCC(C)CO,137-32-6,test,3,2-methyl-1-butanol,Saturated Alcohols,3.00,,,-2.78,1.67
+285,CCC(=O)OC(C)(C)C,20487-40-5,test,3,tert-butyl  propionate,Saturated Esters and Carboxylic Acids,15.70,,,11.90,2.10
+286,O=C1CCCCC1,108-94-1,test,3,cyclohexanone,Saturated Alkanones,6.10,,,3.69,2.32
+287,CCCC(C)O,6032-29-7,test,3,2-pentanol,Saturated Alcohols,-0.30,,,1.49,1.21
+288,CCC=C(C)C,625-27-4,test,3,2-methyl-2-pentene,Alkenes,36.00,,,35.74,3.39
+289,COCCOCCO,111-77-3,test,3,2-(2-methoxyethoxy)-ethanol,Other Multi-Oxygen Compounds,-23.80,,,-21.37,2.27
+290,COCC(C)OC,7778-85-0,test,3,"1,2-dimethoxypropane",Other Multi-Oxygen Compounds,-18.20,,,-14.55,2.11
+291,CCCCCCCCCC,124-18-5,test,3,n-decane,Linear Alkanes,41.70,,,42.22,3.71
+292,C=CCC(C)CC,3769-23-1,test,3,4-methyl-1-hexene,Alkenes,39.40,,,32.77,1.80
+293,CC(=O)OCC(C)C,110-19-0,test,3,isobutyl  acetate,Saturated Esters and Carboxylic Acids,6.90,,,6.76,1.76
+294,COC(=O)CC(C)C,556-24-1,test,3,methyl  isopentanoate,Saturated Esters and Carboxylic Acids,-3.10,,,0.50,1.84
+295,C=C(C)C(=O)OC,80-62-6,test,4,methyl-2-methyl-2-propenoate,Unsaturated Esters,-2.20,,,-6.11,1.85
+296,C=C(C)C(C)C,563-78-0,test,3,"2,3-dimethyl-1-butene",Alkenes,35.80,,,38.89,2.94
+297,O=C1CCCC1,120-92-3,experiment,0,cyclopentanone,New Compounds,-11.66,,,2.44,4.01
+298,C=CC(C)(C)O,115-18-4,experiment,0,2-methylbut-3-en-2-ol,New Compounds,-6.78,,,12.92,2.43
+299,Cc1ccc(C)o1,625-86-5,experiment,0,"2,5-dimethylfuran",New Compounds,35.37,,,73.01,11.56

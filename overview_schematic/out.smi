@@ -1,0 +1,297 @@
+CCCCC n-pentane
+CCCCCC n-hexane
+CCCC(C)C 2-methylpentane
+CCC(C)CC 3-methylpentane
+CCC(C)(C)C 2,2-dimethylbutane
+CC(C)C(C)C 2,3-dimethylbutane
+CCCCCCC n-heptane
+CCCCC(C)C 2-methylhexane
+CCCC(C)CC 3-methylhexane
+CCCC(C)(C)C 2,2-dimethylpentane
+CCC(C)C(C)C 2,3-dimethylpentane
+CC(C)CC(C)C 2,4-dimethylpentane
+CCC(C)(C)CC 3,3-dimethylpentane
+CC(C)C(C)(C)C 2,2,3-trimethylbutane
+CCCCCCCC n-octane
+CCCCCC(C)C 2-methylheptane
+CCCCC(C)CC 3-methylheptane
+CCCC(C)CCC 4-methylheptane
+CCCCC(C)(C)C 2,2-dimethylhexane
+CCC(C)CC(C)C 2,4-dimethylhexane
+CC(C)CCC(C)C 2,5-dimethylhexane
+CCC(C)C(C)CC 3,4-dimethylhexane
+CC(C)CC(C)(C)C 2,2,4-trimethylpentane
+CC(C)C(C)C(C)C 2,3,4-trimethylpentane
+CCCCCCCCC n-nonane
+CCCCC(C)C(C)C 2,3-dimethylheptane
+CCCCCCCCCC n-decane
+CCCCCCCCCCC n-undecane
+CCCCCCCCCCCC n-dodecane
+CC(CC(C)(C)C)CC(C)(C)C 2,2,4,6,6-pentamethylheptane
+C1CCCC1 cyclopentane
+C1CCCCC1 cyclohexane
+CC1CCCC1 methylcyclopentane
+C1CCCCCC1 cycloheptane
+CC1CCCCC1 methylcyclohexane
+CCC1CCCC1 ethylcyclopentane
+C1CCCCCCC1 cyclooctane
+CCC1CCCCC1 ethylcyclohexane
+CC1(C)CCCCC1 1,1-dimethylcyclohexane
+C[C@H]1CCCC[C@H]1C cis 1,2-dimethylcyclohexane
+CC1CCCC(C)C1 1,3-dimethylcyclohexane
+CC1CCC(C)CC1 1,4-dimethylcyclohexane
+CCCC1CCCCC1 propylcyclohexane
+CC(C)C1CCCCC1 isopropylcyclohexane
+CC1CCC(C)C(C)C1 1,2,4-trimethylcyclohexane
+CCCCC1CCCCC1 butylcyclohexane
+C/C=C\CC cis 2-pentene
+CC=C(C)C 2-methyl-2-butene
+C=CCCCC 1-hexene
+C/C=C\CCC cis 2-hexene
+C/C=C/CCC trans  2-hexene
+CC/C=C/CC trans  3-hexene
+C=C(C)CCC 2-methyl-1-pentene
+C=CC(C)CC 3-methyl-1-pentene
+C=CCC(C)C 4-methyl-1-pentene
+CCC=C(C)C 2-methyl-2-pentene
+CC=C(C)CC 3-methyl-2-pentene
+C/C=C\C(C)C cis  4-methyl-2-pentene
+C=C(CC)CC 2-ethyl-1-butene
+C=C(C)C(C)C 2,3-dimethyl-1-butene
+CC(C)=C(C)C 2,3-dimethyl-2-butene
+C=CC(C)(C)C 3,3-dimethyl-1-butene
+C=CCCCCC 1-heptene
+C/C=C\CCCC cis  2-heptene
+CC/C=C/CCC trans  3-heptene
+C=C(C)CCCC 2-methyl-1-hexene
+C=CCC(C)CC 4-methyl-1-hexene
+CC=C(CC)CC 3-ethyl-2-pentene
+C=CCC(C)(C)C 4,4-dimethyl-1-pentene
+C=C(C)C(C)(C)C 2,3,3-trimethyl-1-butene
+C=CCCCCCC 1-octene
+C/C=C/CCCCC trans  2-octene
+CC/C=C/CCCC trans  3-octene
+CCC/C=C/CCC trans  4-octene
+C=C(C)CCCCC 2-methyl-1-heptene
+CCCCC=C(C)C 2-methyl-2-heptene
+CC(C)=C(C)C(C)C 2,3,4-trimethyl-2-pentene
+C=C(C)CC(C)(C)C 2,4,4-trimethyl-1-pentene
+CC(C)=CC(C)(C)C 2,4,4-trimethyl-2-pentene
+C=CCCCCCCC 1-nonene
+C=CCCCCCCCC 1-decene
+C=CCCCCCCCCCC 1-dodecene
+C1=CCCC1 cyclopentene
+C1=CCCCC1 cyclohexene
+CC1=CCCC1 1-methylcyclopentene
+C1=CCCCCC1 cycloheptene
+C#CCCC 1-pentyne
+CC#CCC 2-pentyne
+C=CCCC(=C)C 2-methyl-1,5-hexadiene
+C#CCCCCCC 1-octyne
+CO methanol
+CCO ethanol
+CCCO 1-propanol
+CC(C)O 2-propanol
+CCCCO 1-butanol
+CCC(C)O 2-butanol
+CC[C@H](C)O (R)-2-butanol
+CC[C@@H](C)O (S)-2-butanol
+CC(C)CO 2-methyl-1-propanol
+CC(C)(C)O tert-butanol
+CCCCCO 1-pentanol
+CCCC(C)O 2-pentanol
+CCC(O)CC 3-pentanol
+CCC(C)CO 2-methyl-1-butanol
+CCC(C)(C)O 2-methyl-2-butanol
+CC(C)CCO 3-methyl-1-butanol
+CC(C)C(C)O 3-methyl-2-butanol
+CCCCCCO 1-hexanol
+CCCCC(C)O 2-hexanol
+CCCC(O)CC 3-hexanol
+CCCC(C)CO 2-methyl-1-pentanol
+CCCC(C)(C)O 2-methyl-2-pentanol
+CCC(C)CCO 3-methyl-1-pentanol
+CCC(C)C(C)O 3-methyl-2-pentanol
+CC(C)CCCO 4-methyl-1-pentanol
+CC(C)CC(C)O 4-methyl-2-pentanol
+CCC(CC)CO 2-ethyl-1-butanol
+CC(C)C(C)(C)O 2,3-dimethyl-2-butanol
+CC(C)(C)CCO 3,3-dimethyl-1-butanol
+CC(O)C(C)(C)C 3,3-dimethyl-2-butanol
+OC1CCCCC1 cyclohexanol
+CCCCCCCO 1-heptanol
+CCCCCC(C)O 2-heptanol
+CCCCC(O)CC 3-heptanol
+CCCC(O)CCC 4-heptanol
+CCCCC(C)(C)O 2-methyl-2-hexanol
+CC(C)CCC(C)O 5-methyl-2-hexanol
+CCC(O)(CC)CC 3-ethyl-3-pentanol
+CCC(O)C(C)(C)C 2,2-dimethyl-3-pentanol
+CC(C)C(O)C(C)C 2,4-dimethyl-3-pentanol
+CCCCCCCCO 1-octanol
+CCCCCCC(C)O 2-octanol
+CCCCCC(O)CC 3-octanol
+CCCCC(O)CCC 4-octanol
+CCCCC(CC)CO 2-ethyl-1-hexanol
+CCCC(CO)CCC 2-propyl-1-pentanol
+CC(CO)CC(C)(C)C 2,4,4-trimethyl-1-pentanol
+CCCOC methyl  propyl  ether
+CCOCC diethyl  ether
+CCCCOC methyl  butyl  ether
+CCC(C)OC methyl  sec-butyl  ether
+COC(C)(C)C methyl  tert-butyl  ether
+CCCOCCC dipropyl  ether
+CC(C)OC(C)C diisopropyl  ether
+CCC(C)(C)OC methyl  tert-amyl  ether
+CCOC(C)(C)C tert-butyl  ethyl  ether
+COC1CCCC1 methyl  cyclopentyl  ether
+CCCCOCCCC dibutyl  ether
+CCC(C)OC(C)CC sec-butyl  ether
+CC(C)CCOCCC(C)C isoamyl  ether
+CC(C)=O 2-propanone  (acetone)
+CCC(C)=O 2-butanone
+CCCC(C)=O 2-pentanone
+CCC(=O)CC 3-pentanone
+CC(=O)C(C)C 3-methyl-2-butanone
+CCCCC(C)=O 2-hexanone
+CCCC(=O)CC 3-hexanone
+CCC(=O)C(C)C 2-methyl-3-pentanone
+CCC(C)C(C)=O 3-methyl-2-pentanone
+CC(=O)CC(C)C 4-methyl-2-pentanone
+CC(=O)C(C)(C)C 3,3-dimethyl-2-butanone
+O=C1CCCCC1 cyclohexanone
+CCCCCC(C)=O 2-heptanone
+CCCCC(=O)CC 3-heptanone
+CCCC(=O)CCC 4-heptanone
+CCCC(=O)C(C)C 2-methyl-3-hexanone
+CC(C)C(=O)C(C)C 2,4-dimethyl-3-pentanone
+CC(=O)CC(C)(C)C 4,4-dimethyl-2-pentanone
+CCCCCCC(C)=O 2-octanone
+CCCCCC(=O)CC 3-octanone
+CCC(=O)CC(C)CC 5-methyl-3-heptanone
+CCCCCCCC(C)=O 2-nonanone
+CCCCCCC(=O)CC 3-nonanone
+CCCCC(=O)CCCC 5-nonanone
+CC(C)CC(=O)CC(C)C 2,6-dimethyl-4-heptanone
+CC(C)(C)C(=O)C(C)(C)C 2,2,4,4-tetramethyl-3-pentanone
+CCCCCCCCC(C)=O 2-decanone
+CCCCCCCC(=O)CC 3-decanone
+CCC=O propanal  (propionaldehyde)
+CCCC=O butanal
+CC(C)C=O isobutanal
+CCCCC=O pentanal
+CCC(C)C=O 2-methylbutanal
+CC(C)CC=O 3-methylbutanal
+CC(C)(C)C=O 2,2-dimethylpropanal
+CCCCCC=O hexanal
+CCCC(C)C=O 2-methylpentanal
+CCC(C=O)CC 2-ethylbutanal
+CC(C)(C)CC=O 3,3-dimethylbutanal
+CCCCCCC=O heptanal
+CCCCCCCC=O octanal
+CCCCC(C=O)CC 2-ethylhexanal
+CCCCCCCCC=O nonanal
+CC(CC=O)CC(C)(C)C 3,5,5-trimethylhexanal
+CCCCCCCCCC=O decanal
+CCCCC(C=O)CCCC 2-butylhexanal
+C1COCO1 1,3-dioxolane
+C1CCOC1 tetrahydrofuran
+CCC1CO1 1,2-epoxybutane
+C1CCOCC1 tetrahydropyran
+COC1CCCCO1 2-methoxytetrahydropyran
+CCOC=O ethyl  formate
+COC(C)=O methyl  acetate
+CCCOC=O propyl  formate
+CC(C)OC=O isopropyl  formate
+CCOC(C)=O ethyl  acetate
+CCC(=O)OC methyl  propionate
+CCCC(=O)O butyric  acid
+CC(C)C(=O)O isobutyric  acid
+CCCCOC=O butyl  formate
+CC(C)COC=O isobutyl  formate
+CC(C)(C)OC=O tert-butyl  formate
+CCCOC(C)=O propyl  acetate
+CC(=O)OC(C)C isopropyl  acetate
+CCOC(=O)CC ethyl  propionate
+CCCC(=O)OC methyl  butyrate
+COC(=O)C(C)C methyl  isobutyrate
+CCCCCOC=O pentyl  formate
+CC(C)CCOC=O isopentyl  formate
+CCCCOC(C)=O butyl  acetate
+CC(=O)OCC(C)C isobutyl  acetate
+CCC(C)OC(C)=O sec-butyl  acetate
+CC(=O)OC(C)(C)C tert-butyl  acetate
+CCCOC(=O)CC propyl  propionate
+CCCC(=O)OCC ethyl  butyrate
+CCOC(=O)C(C)C ethyl  isobutyrate
+CCCCC(=O)OC methyl  pentanoate
+COC(=O)CC(C)C methyl  isopentanoate
+CCC(C)C(=O)OC methyl  2-methylbutyrate
+COC(=O)C(C)(C)C methyl  trimethylacetate
+CCC(CC)C(=O)O 2-ethylbutyric  acid
+CCC(C)(C)C(=O)O 2,2-dimethylbutyric  acid
+CCCCCOC(C)=O pentyl  acetate
+CC(=O)OCCC(C)C isopentyl  acetate
+CCCCOC(=O)CC butyl  propionate
+CCC(=O)OCC(C)C isobutyl  propionate
+CCC(=O)OC(C)(C)C tert-butyl  propionate
+CCCOC(=O)CCC propyl  butyrate
+CCCC(=O)OC(C)C isopropyl  butyrate
+CCCCC(=O)OCC ethyl  pentanoate
+CCOC(=O)CC(C)C ethyl  isopentanoate
+CCOC(=O)C(C)CC ethyl  2-methylbutyrate
+CCCCCC(=O)OC methyl  hexanoate
+CCCCCCC(=O)OC methyl  heptanoate
+CCCCCCCC(=O)OC methyl  octanoate
+C=CC(=O)OC methyl-2-propenoate
+C/C=C/C(=O)OC methyl-2-butenoate
+C=C(C)C(=O)OC methyl-2-methyl-2-propenoate
+C=CC(=O)OCC ethyl-2-propenoate
+CC/C=C/C(=O)OC methyl-2-pentenoate
+C/C=C/CC(=O)OC methyl-3-pentenoate
+C=CCCC(=O)OC methyl-4-pentenoate
+C/C=C(/C)C(=O)OC methyl-2-methyl-2-butenoate
+COC(=O)C=C(C)C methyl-3-methyl-2-butenoate
+C/C=C/C(=O)OCC ethyl-2-butenoate
+C=C(C)C(=O)OCC ethyl-2-methyl-2-propenoate
+C=CC(=O)OCCC propyl-2-propenoate
+CCC/C=C/C(=O)OC methyl-2-hexenoate
+CCC=CCC(=O)OC methyl-3-hexenoate
+C=CCCCC(=O)OC methyl-5-hexenoate
+CC/C=C(\C)C(=O)O methyl-2-methyl-2-pentenoate
+C=CCCC(=O)OCC ethyl-4-pentenoate
+C/C=C(\C)C(=O)OCC ethyl-2-methyl-2-butenoate
+CCOC(=O)C=C(C)C ethyl-3-methyl-2-butenoate
+C=C(C)C(=O)OCCC propyl-2-methyl-2-propenoate
+OCCO 1,2-ethanediol  (ethylene  glycol)
+CC(O)CO 1,2-propanediol
+COC(=O)OC dimethyl  carbonate
+COCOC dimethoxymethane
+COC(C)OC 1,1-dimethoxyethane
+COCCOC 1,2-dimethoxyethane
+COCC(C)O 1-methoxy-2-propanol
+COCCCO 3-methoxy-1-propanol
+CCOCCO 2-ethoxyethanol
+COC(OC)OC trimethoxymethane
+COC(=O)[C@H](C)O 2-hydroxy-methylpropionate
+COC(C)(C)OC 2,2-dimethoxypropane
+CCC(O)COC 1-methoxy-2-butanol
+COCC(C)OC 1,2-dimethoxypropane
+CC(C)OCCO 2-isopropoxyethanol
+CCOCOCC diethoxymethane
+COCCOCCO 2-(2-methoxyethoxy)-ethanol
+COC(C)(OC)OC 1,1,1-trimethoxyethane
+CCOC(=O)OCC diethyl  carbonate
+COC(OC)C(C)=O 1,1-dimethoxy-2-propanone
+COC(OC)(OC)OC tetramethoxymethane
+CCCCOCCO 2-butoxyethanol
+COCCOCCOC diglyme
+CCOC(C)OCC 1,1-diethoxyethane
+COC(C)(C)CCO 3-methoxy-3-methyl-1-butanol
+CCCOCC(C)O 1-propoxy-2-propanol
+CCOCCOCC 1,2-diethoxyethane
+CCCCOCC(C)O 1-butoxy-2-propanol
+CC(O)COC(C)(C)C 1-tert-butoxy-2-propanol
+CCOC(CC)OCC 1,1-diethoxypropane
+CCCOC(=O)OCCC dipropyl  carbonate
+c1ccccc1 benzene

@@ -1,0 +1,14 @@
+name: ysi
+channels:
+  - https://conda.anaconda.org/rdkit
+dependencies:
+  - python=3.5
+  - jupyter
+  - pandas
+  - seaborn
+  - rdkit
+  - jinja2
+  - pip:
+    - https://github.com/pstjohn/scikit-learn/archive/pstjohn-changes.zip
+    - pubchempy
+    - keras==0.3.3

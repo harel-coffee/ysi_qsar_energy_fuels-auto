@@ -1,0 +1,86 @@
+IUPAC name,CAS,RON,YSI,YSI_std,YSI source,RON source
+1-Hexene,592-41-6,76.0,15.570532760620118,1.5027833969011373,Model Prediction,API Report
+"2,4-dimethyl-2-pentene",625-65-0,100.0,58.43562652587891,3.2343921855533284,Model Prediction,API Report
+"2,5-Dimethylfuran",625-86-5,101.3,64.9299592590332,8.621680169575585,Model Prediction,API Report
+"2,6- Dimethylheptane",1072-05-5,36.0,45.13758499145508,3.612207313428333,Model Prediction,"Ind. Eng. Chem., 1941, 33 (4), pp 554-560"
+2-butanol,78-92-2,107.0,-8.6,0.58,"McEnally & Pfefferle, 2011","Christensen, 2011"
+2-methyl-butanol,137-32-6,101.0,3.0,0.58,"McEnally & Pfefferle, 2011","NREL, 2016"
+2-methylfuran,534-22-5,103.0,42.21866088867188,8.746854474617502,Model Prediction,API Report
+2-Methyltetrahydrofuran,96-47-9,86.0,10.727998027801513,4.483156868093886,Model Prediction,"Christensen, 2011"
+2-Pentanol,6032-29-7,99.4,-0.3,0.58,"McEnally & Pfefferle, 2011","NREL, 2016"
+2-pentanone,107-87-9,105.7,-14.4,0.58,"McEnally & Pfefferle, 2011","NREL, March  2016 JCE-4-42309-01, WO #56"
+3Z-heptene (cis),7642-10-6,90.0,31.11860366821289,2.2680720141234625,Model Prediction,API Report
+3E-heptene (trans),14686-14-7,90.0,31.759228897094726,1.9269226664849128,Model Prediction,API Report
+3-hexanol,623-37-0,94.1,5.5,0.58,"McEnally & Pfefferle, 2011","PNNL, June 2016"
+3-hexanone,589-38-8,101.9,-7.6,0.58,"McEnally & Pfefferle, 2011",Unknown
+3E-hexene (trans),13269-52-8,94.0,24.28555274963379,1.6181775752878056,Model Prediction,API Report
+3-methyl-2-buten-1-ol,556-82-1,94.3,19.570135231018067,2.865321500858645,Model Prediction,"Southwest Research Institute, NREL"
+3-methylhexane,589-34-4,52.0,19.6,0.58,"McEnally & Pfefferle, 2011",API Report
+3-Pentanol,584-02-1,100.0,-2.0,0.58,"McEnally & Pfefferle, 2011",NREL unpublished data
+3-Pentanone,96-22-0,106.8,-14.4,0.58,"McEnally & Pfefferle, 2011",Unknown
+4-Heptanone,123-19-3,86.6,-2.9,0.58,"McEnally & Pfefferle, 2011","NREL, March 2016 JCE-4-42309-01, WO #56"
+4E-octene (trans),14850-23-8,73.0,45.6,0.58,"McEnally & Pfefferle, 2011",API Report
+"2, 2, 3- Trimethyl-butane",464-06-2,112.0,38.7,0.58,"McEnally & Pfefferle, 2011",API Report
+Cyclohexane,110-82-7,83.0,19.1,0.58,"McEnally & Pfefferle, 2011",API Report
+Cyclopentanone,120-92-3,101.0,3.54781436920166,4.782474306094978,Model Prediction,API Report
+2- ethoxy- 2- methyl-propane,637-92-3,119.0,11.7,0.58,"McEnally & Pfefferle, 2011",http://www.petrochemistry.eu/ftp/pressroom/ETBE%20Product%20Bulletin%20Jun%202006.pdf
+Ethylcyclopentane,1640-89-7,67.0,43.8,0.58,"McEnally & Pfefferle, 2011",API Report
+2- Furancarboxaldehyde,98-01-1,53.0,35.397530193328855,9.57429128343964,Model Prediction,"Chem. Rev. 2006, 106, 4044-4098"
+dihydro- 5- methyl-2(3H) - furanone,108-29-2,100.0,0.8537257206439972,4.933760945028379,Model Prediction,"Green Chem vol 10, pp 238-242 (2008)"
+ 2- methyl-hexane,591-76-4,42.0,18.6,0.58,"McEnally & Pfefferle, 2011",API Report
+" 2- methyl-1, 3- butadiene",78-79-5,99.0,30.175107345581054,3.4123534110974147,Model Prediction,API Report
+2-Butanone,78-93-3,105.3,-20.5,0.58,"McEnally & Pfefferle, 2011","NREL, March  2016 JCE-4-42309-01, WO #56"
+Methylcyclohexane,108-87-2,75.0,36.0,0.58,"McEnally & Pfefferle, 2011",API Report
+4- methyl-2- pentanone,108-10-1,105.7,6.433499565124512,1.0286258255276173,Model Prediction,"PNNL, June 2016"
+ 2- methoxy- 2- methyl-propane,1634-04-4,110.0,1.7,0.58,"McEnally & Pfefferle, 2011",Approximate value from many literature resources
+1-Butanol,71-36-3,98.0,-13.0,0.58,"McEnally & Pfefferle, 2011","Christensen, 2011"
+n-Propanol,71-23-8,104.0,-22.0,0.58,"McEnally & Pfefferle, 2011","Christensen, 2011"
+Pentan-1-ol,71-41-0,82.0,-7.7,0.58,"McEnally & Pfefferle, 2011","Christensen, 2011"
+Pentane,109-66-0,62.0,-8.9,0.58,"McEnally & Pfefferle, 2011",API Report
+Propylcyclohexane,1678-92-8,18.0,60.3,0.58,"McEnally & Pfefferle, 2011",API Report
+Methylbenzene,108-88-3,120.0,70.08972437858581,16.179717920399508,Model Prediction,API Report
+Methoxybenzene,100-66-3,103.3,54.26344711303711,17.628432098239205,Model Prediction,"NREL, March 2016 JCE-4-42309-01, WO #59"
+3-Methylheptane,589-81-1,27.0,28.5,0.58,"McEnally & Pfefferle, 2011",API Report
+1-methoxy-4-methyl-benzene,104-93-8,103.5,79.46100685119629,13.308370615827672,Model Prediction,"NREL, March 2016 JCE-4-42309-01, WO #59"
+2-Heptanone,110-43-0,69.0,0.0,0.58,"McEnally & Pfefferle, 2011","Duplicate=65.1 NREL, March and June 2016 JCE-4-42309-01, WO #56 and #66"
+"Hexanoic acid, methyl ester",106-70-7,87.3,-5.7,0.58,"McEnally & Pfefferle, 2011","NREL, March 2016 JCE-4-42309-01, WO #56"
+Acetic acid ethyl ester,141-78-6,118.0,-26.4,0.58,"McEnally & Pfefferle, 2011","NREL, March 2016 JCE-4-42309-01, WO #56"
+"Butanoic acid, ethyl ester",105-54-4,115.4,-7.6,0.58,"McEnally & Pfefferle, 2011","NREL, March 2016 JCE-4-42309-01, WO #56"
+"Hexanoic acid, ethyl ester",123-66-0,76.5,12.34349925994873,2.4292295508963058,Model Prediction,"NREL, March 2016 JCE-4-42309-01, WO #56"
+"Butanoic Acid, butyl ester",109-21-7,97.0,6.855677862167358,2.5941845531371404,Model Prediction,"NREL, March 2016 JCE-4-42309-01, WO #56"
+2-Heptene (trans),14686-13-6,73.0,34.43128120422363,2.0665658023133173,Model Prediction,API Report
+"2,2,4-trimethylpentane",540-84-1,100.0,48.6,0.58,"McEnally & Pfefferle, 2011",by definition 
+2-methylpropan-1-ol,78-83-1,105.0,-6.5,0.58,"McEnally & Pfefferle, 2011","Christensen, 2011"
+o-Xylene,95-47-6,120.0,93.04641761779786,15.046511267884078,Model Prediction,API Report
+"1,2,4-Trimethylbenzene",95-63-6,110.5,121.56419052124023,15.556149086807347,Model Prediction,API Report
+Methylcyclopentane,96-37-7,91.0,30.9,0.58,"McEnally & Pfefferle, 2011",API Report
+1-Methyl-4-(1-methylethyl)benzene,99-87-6,110.0,121.71345794677734,15.692599434919819,Model Prediction,API Report
+Phenylmethanol,100-51-6,103.9,55.873738822937014,15.315401237787986,Model Prediction,
+4-Methylpentan-2-ol,108-11-2,102.0,18.1,0.58,"McEnally & Pfefferle, 2011",NREL Unpublished
+3-Methylbut-3-en-1-ol,763-32-6,97.2,11.129596767425538,2.1071519788127238,Model Prediction,NREL unpublished
+dimethoxymethylbenzene,1125-88-8,100.5,59.46737325668335,16.62910022428813,Model Prediction,
+Methyl benzoate,93-58-3,109.7,48.261495458483694,12.366845971978867,Model Prediction,
+Ethyl 2-methylpropanoate,97-62-1,110.3,-6.6,0.58,"McEnally & Pfefferle, 2011","NREL, 2016"
+Methyl-2-methylbutanoate,868-57-5,110.5,-8.5,0.58,"McEnally & Pfefferle, 2011","NREL, 2016"
+Butyl acetate,123-86-4,100.8,8.8,0.58,"McEnally & Pfefferle, 2011","NREL, March 2016 JCE-4-42309-01, WO #56"
+3-Methylbutyl acetate,123-92-2,100.6,18.07015350341797,2.711425713579574,Model Prediction,"NREL, June 2016 JCE-4-42309-01, WO #65"
+Methylbutanoate,623-42-7,107.2,-18.2,0.58,"McEnally & Pfefferle, 2011",
+1-methyl-4-propan-2-ylcyclohexane,99-82-1,60.0,86.48041015625,4.996970719422325,Model Prediction,"Albahri, 2003"
+Ethylbenzene,100-41-4,107.0,73.05465629577637,16.021253666894122,Model Prediction,API Report
+Propylbenzene,103-65-1,111.0,87.89000129699707,15.492156724596787,Model Prediction,API Report
+Butylbenzene,104-51-8,104.0,97.32470932006837,15.215040642337824,Model Prediction,API Report
+2-Methylbutan-2-ol,75-85-4,111.0,3.9,0.58,"McEnally & Pfefferle, 2011",NREL unpublished
+3-Methylbutan-1-ol,123-51-3,93.0,2.4,0.58,"McEnally & Pfefferle, 2011",NREL unpublished
+(1-methylethyl)benzene,98-82-8,113.0,106.78832122802734,15.744490597914558,Model Prediction,API Report
+"1,1,3- Trimethylcyclohexane",3073-66-3,81.0,77.76132781982422,3.431040372266054,Model Prediction,API Report
+2-Propanol,67-63-0,112.5,-17.3,0.58,"McEnally & Pfefferle, 2011","Wallner, T., Ickes, A., Lawyer, K. Analytical assessment of alcohol isomers for spark-ignition engine applications. Proceedings of the FISITA 2012 World Automotive Congress. F2012-B01-004. Beijing, China. November 27-30, 2012"
+Ethanol,64-17-5,109.0,-31.1,0.58,"McEnally & Pfefferle, 2011","Hunwartzen, I SAE Paper 82002, 1982. DOI: 10.4271/82002"
+"2,2,4-Trimethyl-1-pentene",107-39-1,106.0,65.9355857849121,4.234651238998599,Model Prediction,API Report
+2-Methyl-3-buten-2-ol,115-18-4,102.7,13.693799362182617,2.223390187936734,Model Prediction,"PNNL, June 2016"
+"2-Methylpropyl ester, acetic acid",110-19-0,108.7,6.9393778419494625,1.2466849986115103,Model Prediction,
+"2-Methyl propanoic acid, methyl ester",547-63-7,103.6,-12.7,0.58,"McEnally & Pfefferle, 2011","PNNL, June 2016"
+cyclohexanone,108-94-1,101.0,6.1,0.58,"McEnally & Pfefferle, 2011",API Report
+3-Methyl-2-butanone,563-80-4,103.7,-7.817113208770752,1.2776750749797192,Model Prediction,"NREL, June  2016 JCE-4-42309-01, WO #65"
+1-Hexanol,111-27-3,69.3,-0.6,0.58,"McEnally & Pfefferle, 2011","Wallner, T., Ickes, A., Lawyer, K. Analytical assessment of alcohol isomers for spark-ignition engine applications. Proceedings of the FISITA 2012 World Automotive Congress. F2012-B01-004. Beijing, China. November 27-30, 2012"
+"Pentanoic acid, methyl ester",624-24-8,103.4,-12.6,0.58,"McEnally & Pfefferle, 2011","NREL, June 2016 JCE-4-42309-01, WO #65"
+2-Propanone,67-64-1,111.3,-26.9,0.58,"McEnally & Pfefferle, 2011",

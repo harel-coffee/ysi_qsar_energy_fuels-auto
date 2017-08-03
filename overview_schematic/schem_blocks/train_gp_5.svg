@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (http://matplotlib.org/) -->
+<svg height="288pt" version="1.1" viewBox="0 0 288 288" width="288pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 288 288 
+L 288 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="QuadMesh_1">
+    <path clip-path="url(#pb59db8174e)" d="M 36 145.98 
+L 47.16 145.98 
+L 47.16 134.82 
+L 36 134.82 
+L 36 145.98 
+" style="fill:#ee6410;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 47.16 145.98 
+L 58.32 145.98 
+L 58.32 134.82 
+L 47.16 134.82 
+L 47.16 145.98 
+" style="fill:none;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 58.32 145.98 
+L 69.48 145.98 
+L 69.48 134.82 
+L 58.32 134.82 
+L 58.32 145.98 
+" style="fill:#fdb06e;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 69.48 145.98 
+L 80.64 145.98 
+L 80.64 134.82 
+L 69.48 134.82 
+L 69.48 145.98 
+" style="fill:#fda965;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 80.64 145.98 
+L 91.8 145.98 
+L 91.8 134.82 
+L 80.64 134.82 
+L 80.64 145.98 
+" style="fill:#f98230;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 91.8 145.98 
+L 102.96 145.98 
+L 102.96 134.82 
+L 91.8 134.82 
+L 91.8 145.98 
+" style="fill:none;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 102.96 145.98 
+L 114.12 145.98 
+L 114.12 134.82 
+L 102.96 134.82 
+L 102.96 145.98 
+" style="fill:#fdaf6c;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 114.12 145.98 
+L 125.28 145.98 
+L 125.28 134.82 
+L 114.12 134.82 
+L 114.12 145.98 
+" style="fill:#fd8c3b;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 125.28 145.98 
+L 136.44 145.98 
+L 136.44 134.82 
+L 125.28 134.82 
+L 125.28 145.98 
+" style="fill:#f87d29;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 136.44 145.98 
+L 147.6 145.98 
+L 147.6 134.82 
+L 136.44 134.82 
+L 136.44 145.98 
+" style="fill:#fd9c51;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 147.6 145.98 
+L 158.76 145.98 
+L 158.76 134.82 
+L 147.6 134.82 
+L 147.6 145.98 
+" style="fill:#eb600e;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 158.76 145.98 
+L 169.92 145.98 
+L 169.92 134.82 
+L 158.76 134.82 
+L 158.76 145.98 
+" style="fill:none;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 169.92 145.98 
+L 181.08 145.98 
+L 181.08 134.82 
+L 169.92 134.82 
+L 169.92 145.98 
+" style="fill:#fdc28b;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 181.08 145.98 
+L 192.24 145.98 
+L 192.24 134.82 
+L 181.08 134.82 
+L 181.08 145.98 
+" style="fill:#f57520;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 192.24 145.98 
+L 203.4 145.98 
+L 203.4 134.82 
+L 192.24 134.82 
+L 192.24 145.98 
+" style="fill:#fd8c3b;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 203.4 145.98 
+L 214.56 145.98 
+L 214.56 134.82 
+L 203.4 134.82 
+L 203.4 145.98 
+" style="fill:#fdcb9b;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 214.56 145.98 
+L 225.72 145.98 
+L 225.72 134.82 
+L 214.56 134.82 
+L 214.56 145.98 
+" style="fill:#fd974a;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 225.72 145.98 
+L 236.88 145.98 
+L 236.88 134.82 
+L 225.72 134.82 
+L 225.72 145.98 
+" style="fill:#fdb576;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 236.88 145.98 
+L 248.04 145.98 
+L 248.04 134.82 
+L 236.88 134.82 
+L 236.88 145.98 
+" style="fill:#f87d29;stroke:#ffffff;"/>
+    <path clip-path="url(#pb59db8174e)" d="M 248.04 145.98 
+L 259.2 145.98 
+L 259.2 134.82 
+L 248.04 134.82 
+L 248.04 145.98 
+" style="fill:#fee0c1;stroke:#ffffff;"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb59db8174e">
+   <rect height="11.16" width="223.2" x="36.0" y="134.82"/>
+  </clipPath>
+ </defs>
+</svg>

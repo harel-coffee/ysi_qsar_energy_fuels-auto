@@ -1,0 +1,2 @@
+#!/bin/bash
+mongod -v -f mongodb.conf --shutdown
